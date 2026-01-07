@@ -57,7 +57,7 @@ def wait_element_text(parent, by, value, timeout=10):
 # ================= DRIVER =================
 
 
-for i in range(1, 61):
+for i in range(55, 61):
     driver = webdriver.Chrome()
     driver.get(f'https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257?page={i}')
 
