@@ -1,0 +1,1218 @@
+﻿,job_title,date,salary,location
+0,Business Analyst,2026-01-03,25.0,Hà Nội
+1,Software Engineer,2026-01-16,60.0,Hồ Chí Minh
+2,Kinh doanh phần mềm,2026-01-15,20.0,Hồ Chí Minh
+3,UI/UX Design,2025-12-31,50.0,Hà Nội
+4,Thiết kế đồ họa,2026-01-16,20.0,Hồ Chí Minh
+5,Software Engineer,2026-01-09,45.0,Hà Nội
+6,Game Design,2026-01-04,6.0,Hà Nội
+7,Game Developer,2026-01-04,12.0,Hà Nội
+8,Data Analyst,2026-01-03,30.0,Hà Nội
+9,Mobile Developer,2026-01-10,25.0,Hà Nội
+10,Software Engineer,2026-01-02,25.0,Hồ Chí Minh
+11,Sales Admin/Sales Support/Sales Associate,2026-01-31,20.0,Hồ Chí Minh
+12,Kỹ sư lập trình máy,2026-01-02,30.0,Hà Nội
+13,Kinh doanh phần mềm,2026-01-10,30.0,Khánh Hòa
+14,Software Engineer,2026-01-18,30.0,Hà Nội
+15,Business Analyst,2026-01-05,25.0,Hà Nội
+16,Thiết kế đồ họa,2026-01-14,20.0,Hồ Chí Minh
+17,IT Helpdesk/IT support,2026-01-05,12.0,Đà Nẵng
+18,Chuyên môn Công nghệ thông tin khác,2026-01-07,10.0,Hồ Chí Minh
+19,Fullstack Developer,2025-12-31,45.0,Hồ Chí Minh
+20,Game Tester,2026-01-10,13.0,Hà Nội
+21,Chuyên môn Công nghệ thông tin khác,2026-01-04,25.0,Cần Thơ
+22,Network Engineer,2026-01-31,40.0,Hà Nội
+23,System Engineer,2026-01-31,40.0,Hà Nội
+24,Mobile Developer,2026-01-15,35.0,Hồ Chí Minh
+25,Software Tester,2026-01-15,25.0,Hà Nội
+26,Software Engineer,2026-01-18,35.0,Hồ Chí Minh
+27,UI/UX Design,2026-01-14,16.0,Hà Nội
+28,Digital Marketing,2026-01-11,25.0,Hà Nội
+29,Mobile Developer,2026-01-31,30.0,Hà Nội
+30,Thiết kế đồ họa,2026-01-17,15.0,Hồ Chí Minh
+31,Fullstack Developer,2026-01-08,30.0,Hà Nội
+43,IT Helpdesk/IT support,2026-01-10,18.0,Đồng Nai
+44,DevOps Engineer,2025-12-23,30.0,Hà Nội
+45,Kỹ sư IoT,2025-12-31,18.0,Đồng Nai
+46,Thiết kế đồ họa,2025-12-31,20.0,Tây Ninh
+47,Kiểm soát chất lượng,2025-12-22,15.0,Hải Phòng
+48,Thiết kế đồ họa,2026-01-01,20.0,Hà Nội
+49,UI/UX Design,2026-01-11,15.0,Hà Nội
+50,Data Analyst,2026-01-18,18.0,Hà Nội
+51,UI/UX Design,2026-01-17,28.0,Hà Nội
+52,Giáo viên STEAM/STEM,2026-01-15,15.0,Hà Nội
+53,Mobile Developer,2026-01-14,45.0,Hà Nội
+54,Software Tester,2026-01-14,35.0,Hà Nội
+55,Data Analyst,2026-01-17,25.0,Hà Nội
+56,Manual Tester,2026-01-16,15.0,Hà Nội
+57,Bán hàng kỹ thuật Điện/Điện tử/Viễn thông,2026-01-14,40.0,Hà Nội
+58,Data Engineer,2026-01-17,50.0,Hồ Chí Minh
+60,Thiết kế đồ họa,2026-01-15,20.0,Hà Nội
+61,Backend Developer,2026-01-14,45.0,Hà Nội
+62,Kỹ sư IoT,2026-01-31,30.0,Hồ Chí Minh
+63,Thiết kế đồ họa,2026-01-07,14.0,Hà Nội
+64,Business Analyst,2026-01-16,35.0,Hà Nội
+65,Fullstack Developer,2026-01-14,30.0,Hà Nội
+66,Backend Developer,2026-01-17,25.0,Hà Nội
+67,IT Helpdesk/IT support,2026-01-17,15.0,Hà Nội
+68,Network Engineer,2026-01-31,10.0,Đắk Lắk
+69,Kỹ thuật IT,2026-01-17,18.0,Hà Nội
+70,Game Developer,2026-01-17,10.0,Hà Nội
+71,Business Analyst,2026-01-17,20.0,Hà Nội
+72,Thiết kế đồ họa,2025-12-22,20.0,Hà Nội
+73,Software Engineer,2026-01-15,60.0,Hà Nội
+74,Kinh doanh phần mềm,2026-01-30,17.0,Hồ Chí Minh
+75,Business Analyst,2026-01-03,13.0,Hồ Chí Minh
+76,Fullstack Developer,2026-01-04,30.0,Hồ Chí Minh
+77,IT Helpdesk/IT support,2026-01-03,12.0,Hồ Chí Minh
+78,Fullstack Developer,2026-02-28,25.0,Hà Nội
+79,Backend Developer,2026-01-17,40.0,Hà Nội
+80,Game Design,2026-01-09,20.0,Hà Nội
+81,IT Project Manager,2026-01-08,45.0,Hà Nội
+82,Frontend Developer,2026-01-15,40.0,Hà Nội
+83,Software Engineer,2026-01-09,54.0,Hà Nội
+84,Game Developer,2026-01-11,16.0,Hồ Chí Minh
+85,Backend Developer,2026-01-14,35.0,Hà Nội
+86,Mobile Developer,2026-01-31,12.0,Hà Nội
+87,Software Engineer,2026-01-15,60.0,Hồ Chí Minh
+88,IT Helpdesk/IT support,2026-01-15,15.0,Hà Nội
+89,System Administrator,2026-01-08,30.0,Hà Nội
+90,IT Helpdesk/IT support,2026-01-16,15.0,Hà Nội
+91,Fullstack Developer,2026-01-17,15.0,Hà Nội
+92,Mobile Developer,2026-01-13,20.0,Hà Nội
+93,Business Analyst,2026-01-20,70.0,Hà Nội
+94,Kinh doanh phần mềm,2026-01-08,30.0,Hồ Chí Minh
+95,Business Analyst,2026-01-14,25.0,Hà Nội
+96,Kinh doanh phần mềm,2026-01-08,15.0,Hồ Chí Minh
+97,Data Analyst,2026-01-12,2.4,Hồ Chí Minh
+98,Backend Developer,2026-01-29,5.0,Hà Nội
+99,Frontend Developer,2026-01-04,40.0,Hà Nội
+100,Manual Tester,2026-01-08,10.0,Hà Nội
+101,Thiết kế đồ họa,2026-01-10,5.0,Hồ Chí Minh
+102,Backend Developer,2026-01-14,20.0,Hà Nội
+103,Fullstack Developer,2026-01-15,4.0,Hà Nội
+104,Software Tester,2026-01-31,25.0,Hà Nội
+105,Backend Developer,2026-01-19,6.9,Hồ Chí Minh
+106,Game Developer,2026-01-08,6.0,Hà Nội
+107,Manual Tester,2026-01-10,20.0,Hồ Chí Minh
+108,Manual Tester,2026-01-14,22.0,Hà Nội
+109,Frontend Developer,2026-01-18,25.0,Hà Nội
+110,Software Tester,2026-01-07,22.0,Hà Nội
+111,Frontend Developer,2026-01-09,40.0,Hà Nội
+112,Mobile Developer,2026-01-11,2.0,Hà Nội
+113,Kinh doanh phần mềm,2026-01-07,35.0,Hà Nội
+114,IT Helpdesk/IT support,2026-01-14,25.0,Hà Nội
+115,Software Tester,2026-01-09,25.0,Hà Nội
+116,Kinh doanh phần mềm,2026-01-09,20.0,Hồ Chí Minh
+117,AI Engineer,2026-01-08,50.0,Đà Nẵng
+118,Software Engineer,2025-12-24,20.0,Hồ Chí Minh
+119,Frontend Developer,2026-01-19,6.9,Hồ Chí Minh
+120,Backend Developer,2026-01-10,15.0,Hà Nội
+121,Backend Developer,2026-01-15,30.0,Hà Nội
+122,AI Engineer,2026-01-31,40.0,Hà Nội
+129,Chuyên môn Market Research and Analysis khác,2026-01-08,35.0,Hà Nội
+130,IT Project Manager,2026-01-15,35.0,Hồ Chí Minh
+134,Kinh doanh phần mềm,2026-01-14,20.0,Hà Nội
+135,Backend Developer,2026-01-17,40.0,Hồ Chí Minh
+136,Business Analyst,2026-01-07,30.0,Hà Nội
+139,Backend Developer,2026-01-31,25.0,Hồ Chí Minh
+140,Business Analyst,2026-01-31,25.0,Hà Nội
+141,Mobile Developer,2026-01-31,25.0,Hà Nội
+142,IT Helpdesk/IT support,2026-01-05,12.0,Tây Ninh
+143,Network Engineer,2026-01-31,22.0,Hà Nội
+144,Chuyên môn Công nghệ thông tin khác,2026-01-31,40.0,Hà Nội
+146,Game Developer,2026-02-03,10.0,Hồ Chí Minh
+147,Business Analyst,2026-01-31,30.0,Hồ Chí Minh
+148,Kinh doanh phần mềm,2025-12-18,15.0,Hồ Chí Minh
+151,Thiết kế đồ họa,2026-01-03,15.0,Hà Nội
+153,System Engineer,2026-01-04,14.0,Hồ Chí Minh
+154,Mobile Developer,2026-01-06,25.0,Hà Nội
+155,Thiết kế đồ họa,2025-12-31,30.0,Hà Nội
+156,Thiết kế đồ họa,2026-01-17,10.0,Hồ Chí Minh
+157,Thiết kế đồ họa,2026-01-18,18.0,Hà Nội
+158,Data Scientist,2026-01-20,30.0,Hà Nội
+159,Digital Marketing,2026-01-17,40.0,Hà Nội
+160,Thiết kế đồ họa,2026-01-17,20.0,Hà Nội
+161,Thiết kế đồ họa,2026-02-17,15.0,Hồ Chí Minh
+162,Product Owner/Product Manager,2026-01-17,40.0,Hà Nội
+163,Data Labeling,2026-01-17,3.0,Hà Nội
+164,Thiết kế đồ họa,2026-01-24,15.0,Hà Nội
+165,Concept Artist,2026-01-17,20.0,Hà Nội
+166,Thiết kế đồ họa,2026-01-18,4.0,Hà Nội
+167,Thiết kế đồ họa,2026-01-17,9.0,Hồ Chí Minh
+168,Thiết kế đồ họa,2026-01-17,15.0,Hà Nội
+169,Animation Design,2026-01-17,10.0,Hà Nội
+170,Fullstack Developer,2026-01-17,25.0,Hà Nội
+173,Thiết kế đồ họa,2026-01-31,15.0,Đồng Nai
+174,Chuyên môn Công nghệ thông tin khác,2026-01-28,20.0,Hà Nội
+175,3D Modeler,2026-01-17,25.0,Hà Nội
+176,Chuyên môn Công nghệ thông tin khác,2026-01-17,30.0,Hà Nội
+177,Product Owner/Product Manager,2026-01-19,40.0,Hà Nội
+178,Sales IT Phần mềm khác,2026-01-17,40.0,Hà Nội
+179,Thiết kế đồ họa,2026-03-11,13.0,Hà Nội
+180,Business Analyst,2026-01-02,40.0,Hà Nội
+181,Kinh doanh phần mềm,2026-01-02,25.0,Hồ Chí Minh
+182,Chuyên môn Công nghệ thông tin khác,2026-01-16,12.0,Hà Nội
+183,Thiết kế đồ họa,2026-01-16,15.0,Hà Nội
+184,IT Project Manager,2026-01-16,20.0,Hà Nội
+185,Backend Developer,2026-01-16,40.0,Hà Nội
+186,Thiết kế đồ họa,2026-01-30,12.0,Hồ Chí Minh
+187,Kỹ sư cơ khí,2026-01-17,12.0,Hà Nội
+188,Kỹ thuật IT,2026-01-16,11.0,Hồ Chí Minh
+191,Product Owner/Product Manager,2026-01-16,30.0,Hà Nội
+192,Thiết kế đồ họa,2026-01-16,10.0,Đà Nẵng
+193,Chuyên môn Công nghệ thông tin khác,2026-01-16,12.0,Hồ Chí Minh
+194,Thiết kế đồ họa,2026-01-16,10.0,Hồ Chí Minh
+195,Kỹ sư lập trình máy,2026-01-31,25.0,Hà Nội
+196,Thiết kế đồ họa,2026-01-16,12.0,Hà Nội
+197,Thiết kế đồ họa,2026-01-31,12.0,Hồ Chí Minh
+198,Backend Developer,2026-01-16,33.0,Hà Nội
+199,Thiết kế đồ họa,2026-01-16,28.0,Hà Nội
+200,Kinh doanh phần mềm,2026-01-16,20.0,Hà Nội
+202,Data Analyst,2026-01-16,22.0,Hà Nội
+203,Manual Tester,2026-01-16,20.0,Hà Nội
+204,Digital Marketing,2026-01-16,16.0,Hà Nội
+205,Data Analyst,2025-12-31,20.0,Nước Ngoài
+206,Thiết kế đồ họa,2026-01-15,13.0,Hồ Chí Minh
+207,Kinh doanh phần mềm,2026-02-28,23.0,Hồ Chí Minh
+208,Kinh doanh phần mềm,2026-01-16,30.0,Hà Nội
+209,Kinh doanh phần mềm,2026-01-15,50.0,Hà Nội
+210,Data Analyst,2026-01-15,35.0,Hà Nội
+211,Product Marketing,2026-01-15,25.0,Hà Nội
+212,Thiết kế đồ họa,2026-01-15,30.0,Hà Nội
+213,Thiết kế đồ họa,2026-01-15,12.0,Hà Nội
+214,Business Analyst,2026-01-15,27.0,Hà Nội
+215,Thiết kế đồ họa,2026-01-15,4.0,Hồ Chí Minh
+216,Thiết kế đồ họa,2026-01-15,20.0,Hồ Chí Minh
+218,Manual Tester,2026-01-15,30.0,Hà Nội
+219,Backend Developer,2026-01-15,20.0,Hà Nội
+220,Sales IT Phần mềm khác,2026-01-15,80.0,Hà Nội
+221,Thiết kế đồ họa,2026-01-15,2.0,Đà Nẵng
+222,Kỹ sư lập trình máy,2026-01-31,18.0,Bắc Ninh
+223,Sales IT Phần mềm khác,2026-01-15,10.0,Hà Nội
+225,Thiết kế đồ họa,2026-01-31,20.0,Thanh Hóa
+226,Bán hàng kỹ thuật IT,2026-01-31,12.0,Hồ Chí Minh
+227,Manual Tester,2026-01-15,18.0,Hà Nội
+228,Animation Design,2026-01-15,15.0,Hà Nội
+229,Concept Artist,2026-01-15,12.0,Hà Nội
+230,Thiết kế đồ họa,2026-01-01,15.0,Hồ Chí Minh
+231,Kinh doanh phần mềm,2026-01-14,8.0,Hà Nội
+233,Manual Tester,2026-01-14,28.0,Hà Nội
+234,Game Design,2026-01-14,20.0,Hồ Chí Minh
+235,Product Owner/Product Manager,2026-01-14,27.0,Hồ Chí Minh
+236,Thiết kế đồ họa,2026-01-14,9.0,Hà Nội
+237,Network Engineer,2026-01-14,20.0,Hà Nội
+239,Business Analyst,2026-01-14,35.0,Hà Nội
+240,Kỹ sư lập trình máy,2026-01-14,13.0,Đồng Nai
+241,Kinh doanh phần mềm,2026-01-14,40.0,Hà Nội
+242,Chuyên môn Công nghệ thông tin khác,2026-01-14,12.0,Hải Phòng
+243,Thiết kế đồ họa,2026-01-14,18.0,Hà Nội
+244,Thiết kế đồ họa,2026-01-14,16.0,Thanh Hóa
+245,System Administrator,2026-01-31,30.0,Hà Nội
+246,Kinh doanh Domain/Hosting/Server,2026-01-31,60.0,Hồ Chí Minh
+247,Kinh doanh phần mềm,2026-01-14,50.0,Hồ Chí Minh
+248,Chuyên môn Công nghệ thông tin khác,2026-01-15,15.0,Hồ Chí Minh
+249,Kinh doanh phần mềm,2025-12-31,15.0,Hà Nội
+250,Data Labeling,2026-01-20,9.3,Hà Nội
+251,Thiết kế đồ họa,2026-01-14,12.0,Hà Nội
+252,Software Tester,2026-01-14,30.0,Hà Nội
+253,Thiết kế đồ họa,2026-01-14,20.0,Hà Nội
+254,Phòng chống lừa đảo và an ninh mạng,2026-01-14,20.0,Hà Nội
+255,Animation Design,2026-02-10,8.0,Hà Nội
+256,Software Engineer,2026-01-14,40.0,Hà Nội
+257,Kinh doanh phần mềm,2026-01-31,67.5,Hà Nội
+258,Software Engineer,2026-01-13,40.0,Hà Nội
+259,Thiết kế đồ họa,2025-12-31,20.0,Hà Nội
+260,Thiết kế đồ họa,2026-01-12,11.0,Hà Nội
+261,Kinh doanh phần mềm,2026-01-12,15.0,Hồ Chí Minh
+262,Thiết kế đồ họa,2026-01-12,3.0,Hà Nội
+264,Thiết kế đồ họa,2026-01-12,12.0,Đà Nẵng
+265,Thiết kế đồ họa,2026-01-12,15.0,Hồ Chí Minh
+266,Thiết kế đồ họa,2026-01-11,11.0,Hồ Chí Minh
+267,Thiết kế đồ họa,2026-01-11,5.0,Hà Nội
+268,Thiết kế đồ họa,2026-01-11,8.0,Hồ Chí Minh
+269,Chuyên môn Công nghệ thông tin khác,2026-01-11,25.0,Hà Nội
+270,System Engineer,2026-01-11,20.0,Ninh Bình
+271,Chuyên môn Công nghệ thông tin khác,2026-01-11,8.0,Hà Nội
+272,Kinh doanh phần mềm,2026-01-11,15.0,Hồ Chí Minh
+273,Software Engineer,2026-01-11,32.0,Hà Nội
+274,Animation Design,2026-01-11,25.0,Hồ Chí Minh
+275,Game Design,2026-01-11,54.0,Hà Nội
+276,Illustration,2026-01-11,20.0,Hà Nội
+277,Concept Artist,2026-01-12,25.0,Hồ Chí Minh
+278,Backend Developer,2026-01-11,45.0,Hà Nội
+279,Kinh doanh phần mềm,2026-01-31,2.0,Hồ Chí Minh
+281,Kinh doanh Domain/Hosting/Server,2026-01-31,35.0,Hồ Chí Minh
+282,Thiết kế đồ họa,2026-01-20,15.0,Hà Nội
+283,DevOps Engineer,2026-01-11,45.0,Hà Nội
+284,Kinh doanh phần mềm,2026-01-31,15.0,Hồ Chí Minh
+285,Thiết kế đồ họa,2026-01-11,18.0,Tây Ninh
+286,Thiết kế đồ họa,2026-01-11,15.0,Hà Nội
+287,Thiết kế đồ họa,2026-01-10,15.0,Hà Nội
+288,Mobile Developer,2026-01-10,34.0,Hà Nội
+289,Thiết kế đồ họa,2026-01-10,12.0,Hưng Yên
+290,Thiết kế đồ họa,2026-02-28,9.0,Hà Nội
+291,Thiết kế đồ họa,2026-01-15,4.0,Hà Nội
+292,Software Engineer,2026-01-10,15.0,Bắc Ninh
+293,Kinh doanh phần mềm,2026-01-10,24.0,Hồ Chí Minh
+294,Thiết kế đồ họa,2026-01-10,20.0,Hà Nội
+295,Database Administrator,2026-01-10,35.0,Hà Nội
+296,Thiết kế đồ họa,2026-01-10,13.0,Hà Nội
+297,Bán hàng kỹ thuật IT,2026-02-28,10.0,Hà Nội
+298,Thiết kế đồ họa,2026-01-10,18.0,Đà Nẵng
+299,Kinh doanh phần mềm,2026-01-10,30.0,Hà Nội
+300,Concept Artist,2026-01-10,27.0,Hà Nội
+301,Kinh doanh phần mềm,2026-01-10,15.0,Hà Nội
+302,Backend Developer,2026-01-10,32.0,Hà Nội
+303,IT Project Manager,2026-01-10,50.0,Hà Nội
+304,Thiết kế đồ họa,2026-01-10,15.0,Hồ Chí Minh
+305,Thiết kế đồ họa,2026-01-14,15.0,Hà Nội
+306,Kinh doanh phần mềm,2026-01-31,20.0,Hồ Chí Minh
+307,Kỹ sư hệ thống,2026-01-31,45.0,Hà Nội
+308,Thiết kế đồ họa,2026-01-10,5.0,Hà Nội
+309,Thiết kế đồ họa,2025-12-26,12.0,Hà Nội
+310,Thiết kế đồ họa,2025-12-26,15.0,Hà Nội
+311,Thiết kế đồ họa,2026-01-09,15.0,Hà Nội
+312,IT Project Manager,2026-01-09,17.0,Hà Nội
+313,Chuyên môn Giáo dục/Đào tạo khác,2026-01-09,20.0,Hà Nội
+314,Kinh doanh phần mềm,2026-01-09,16.0,Hà Nội
+316,Kinh doanh phần mềm,2026-01-10,35.0,Hà Nội
+317,Mobile Developer,2026-01-24,38.0,Hà Nội
+318,Animation Design,2026-01-09,17.0,Hồ Chí Minh
+319,Kinh doanh phần mềm,2026-01-09,20.0,Hà Nội
+320,Thiết kế đồ họa,2026-01-09,3.0,Hồ Chí Minh
+321,Kinh doanh Domain/Hosting/Server,2026-01-09,10.0,Hồ Chí Minh
+322,Kỹ sư hệ thống,2026-02-28,15.0,Hà Nội
+323,Animation Design,2026-01-31,15.0,Hà Nội
+325,Kinh doanh phần mềm,2026-01-09,15.0,Hà Nội
+326,Animation Design,2026-01-31,1.0,Hồ Chí Minh
+327,Kinh doanh Domain/Hosting/Server,2026-01-10,32.0,Hồ Chí Minh
+328,Thiết kế đồ họa,2026-01-09,20.0,Hà Nội
+329,Animation Design,2026-01-31,20.0,Hà Nội
+332,Bán hàng kỹ thuật IT,2026-01-10,30.0,Hà Nội
+333,QA Engineer,2026-01-09,12.0,Hồ Chí Minh
+334,UI/UX Design,2025-12-31,67.5,Hà Nội
+335,Mobile Developer,2026-01-08,44.0,Hà Nội
+336,Thiết kế đồ họa,2026-01-09,17.0,Hà Nội
+338,Game Design,2026-01-08,20.0,Hà Nội
+341,Animation Design,2026-01-08,20.0,Hà Nội
+342,IT Project Manager,2026-01-08,80.0,Hà Nội
+343,Game Design,2026-01-08,10.0,Hà Nội
+344,Thiết kế đồ họa,2026-01-08,15.0,Hà Nội
+345,Product Owner/Product Manager,2026-01-08,25.0,Hà Nội
+346,Chiến lược và phân tích bảo mật,2026-02-10,30.0,Hà Nội
+347,Business Analyst,2026-01-11,25.0,Thanh Hóa
+348,IT Consultant,2026-01-08,25.0,Thanh Hóa
+350,Sửa chữa/Bảo trì điện tử/viễn thông,2026-01-08,13.0,Hồ Chí Minh
+351,Animation Design,2026-01-08,16.0,Hà Nội
+352,Thiết kế đồ họa,2026-01-08,1.0,Hồ Chí Minh
+353,AI Engineer,2026-01-08,30.0,Hà Nội
+354,Kinh doanh phần mềm,2026-01-08,20.0,Hà Nội
+355,IT Project Manager,2026-01-09,35.0,Hồ Chí Minh
+356,Thiết kế đồ họa,2026-01-08,12.0,Hà Nội
+357,Animation Design,2025-12-24,12.0,Hà Nội
+358,Mobile Developer,2026-01-08,38.0,Hà Nội
+359,Thiết kế đồ họa,2026-01-08,20.0,Thanh Hóa
+361,Chuyên môn Thiết kế Đồ hoạ/Giao diện/Trải nghiệm khác,2025-12-24,30.0,Hồ Chí Minh
+362,Thiết kế đồ họa,2025-12-24,35.0,Hồ Chí Minh
+363,UI/UX Design,2025-12-24,30.0,Hà Nội
+364,Chuyên môn Công nghệ thông tin khác,2026-01-07,28.0,Hà Nội
+365,Kỹ sư hệ thống,2026-01-07,18.0,Hà Nội
+366,Kỹ sư IoT,2026-01-07,18.0,Hà Nội
+367,UI/UX Design,2026-01-07,16.0,Hồ Chí Minh
+368,Business Analyst,2026-01-08,40.0,Hà Nội
+369,Kỹ thuật IT,2026-01-07,15.0,Hà Nội
+370,UI/UX Design,2026-01-07,34.0,Hà Nội
+371,Automation Tester,2026-01-07,31.0,Hà Nội
+372,Mobile Developer,2026-01-07,34.0,Hà Nội
+373,Thiết kế đồ họa,2026-01-07,8.0,Đà Nẵng
+374,Chuyên môn Marketing/PR/Quảng cáo khác,2026-01-07,18.0,Hà Nội
+375,Thiết kế đồ họa,2026-01-07,18.0,Hà Nội
+376,Database Administrator,2026-01-07,55.0,Hà Nội
+377,Chuyên môn Công nghệ thông tin khác,2026-01-07,65.0,Hà Nội
+378,Thiết kế đồ họa,2026-01-07,12.0,Nghệ An
+379,Quản trị và vận hành bảo mật,2026-01-07,20.0,Hà Nội
+381,Thiết kế đồ họa,2026-01-07,15.0,Hà Nội
+382,Business Analyst,2026-01-07,50.0,Hà Nội
+383,Thiết kế đồ họa,2026-01-07,12.0,Hà Nội
+384,Animation Design,2026-01-07,17.0,Hồ Chí Minh
+386,Công nhân vận hành máy,2026-03-13,15.0,Hồ Chí Minh
+387,Illustration,2026-01-07,15.0,Hà Nội
+390,Software Architect,2026-01-08,60.0,Hà Nội
+391,Kinh doanh phần mềm,2026-01-08,20.0,Hồ Chí Minh
+392,Kế toán quản trị,2026-01-07,18.0,Hà Nội
+393,Product Owner/Product Manager,2026-01-07,35.0,Hà Nội
+394,Animation Design,2026-01-07,6.0,Hà Nội
+395,Kỹ thuật IT,2026-01-07,9.0,Bắc Ninh
+396,Scrum Master,2026-01-10,32.0,Hà Nội
+397,Kinh doanh phần mềm,2026-01-07,0.5,Hồ Chí Minh
+398,Kinh doanh phần mềm,2026-01-07,25.0,Hồ Chí Minh
+399,Fullstack Developer,2026-01-10,20.0,Nghệ An
+400,Thiết kế đồ họa,2026-01-08,12.0,Hồ Chí Minh
+401,Embedded Engineer/Lập trình nhúng,2026-01-31,45.0,Hà Nội
+402,Thiết kế đồ họa,2025-12-31,25.0,Hà Nội
+403,Software Tester,2026-01-05,10.0,Đồng Nai
+404,Thiết kế đồ họa,2026-01-31,12.0,Hà Nội
+405,Product Owner/Product Manager,2026-01-05,35.0,Hà Nội
+406,Backend Developer,2026-01-05,40.0,Hà Nội
+407,DevOps Engineer,2025-12-21,30.0,Hà Nội
+408,Thiết kế đồ họa,2026-02-28,30.0,Hà Nội
+409,Thiết kế đồ họa,2026-01-04,13.0,Hà Nội
+410,Thiết kế đồ họa,2026-01-04,12.0,Hà Nội
+411,Solution Architect,2026-01-04,50.0,Hà Nội
+412,Thiết kế đồ họa,2026-01-04,30.0,Hà Nội
+413,Thiết kế đồ họa,2026-01-05,2.0,Hà Nội
+415,Kinh doanh phần mềm,2026-01-05,35.0,Hà Nội
+416,Thiết kế đồ họa,2026-01-04,15.0,Hà Nội
+417,Thiết kế đồ họa,2026-01-05,30.0,Hà Nội
+418,Thiết kế đồ họa,2026-01-04,16.0,Hà Nội
+419,Chuyên môn Giáo dục/Đào tạo khác,2026-01-04,25.0,Hà Nội
+420,Thiết kế đồ họa,2026-01-04,10.0,Hà Nội
+422,Data Analyst,2026-01-04,50.0,Hà Nội
+423,Kinh doanh phần mềm,2026-01-04,25.0,Hồ Chí Minh
+424,Thiết kế đồ họa,2026-01-04,14.0,Hồ Chí Minh
+425,Thiết kế đồ họa,2026-01-05,15.0,Hà Nội
+426,Vị trí Game Development khác,2026-01-03,25.0,Hà Nội
+428,Chuyên môn khác,2026-01-03,20.0,Hà Nội
+429,Kinh doanh phần mềm,2026-01-03,15.0,Hà Nội
+430,Thiết kế đồ họa,2026-01-03,25.0,Đắk Lắk
+431,Thiết kế đồ họa,2025-12-21,13.0,Hà Nội
+432,Software Engineer,2026-01-31,25.0,Hà Nội
+433,Thiết kế đồ họa,2026-01-03,12.0,Hải Phòng
+434,Kinh doanh phần mềm,2026-01-03,6.0,Hà Nội
+435,Kỹ sư lập trình PLC/SCADA,2026-01-31,40.0,Bắc Ninh
+436,Fullstack Developer,2026-01-03,37.0,Hà Nội
+437,DevOps Engineer,2026-01-03,25.0,Hà Nội
+438,Thiết kế đồ họa,2026-01-03,4.0,Hà Nội
+439,Software Engineer,2026-01-03,24.0,Hà Nội
+440,Manual Tester,2026-01-04,25.0,Hà Nội
+441,Kinh doanh phần mềm,2026-01-03,20.0,Hồ Chí Minh
+442,UI/UX Design,2026-01-31,34.0,Hà Nội
+443,Business Analyst,2026-01-08,28.0,Hà Nội
+445,Kỹ thuật IT,2026-01-03,25.0,Thanh Hóa
+446,IT Comtor,2026-01-31,40.0,Hà Nội
+447,Data Engineer,2026-01-31,40.5,Hà Nội
+448,Kỹ thuật IT,2026-01-31,50.0,Hà Nội
+449,Kinh doanh phần mềm,2026-01-03,15.0,Hồ Chí Minh
+450,Thiết kế đồ họa,2026-01-31,15.0,Hà Nội
+451,Thiết kế đồ họa,2026-01-03,5.0,Hồ Chí Minh
+452,Kỹ sư lập trình PLC/SCADA,2026-01-31,15.0,Đồng Nai
+453,Thiết kế đồ họa,2026-01-03,3.0,Hồ Chí Minh
+454,Thiết kế đồ họa,2025-12-19,15.0,Hà Nội
+455,UI/UX Design,2026-12-03,50.0,Hà Nội
+456,System Administrator,2026-01-02,12.0,Hà Nội
+457,Thiết kế đồ họa,2026-01-02,22.0,Hồ Chí Minh
+458,3D Modeler,2026-01-02,15.0,Hồ Chí Minh
+459,UI/UX Design,2026-01-02,40.0,Hà Nội
+460,Chuyên viên IT Security,2026-01-02,130.0,Hà Nội
+461,Thiết kế đồ họa,2026-01-02,17.0,Hồ Chí Minh
+462,Thiết kế đồ họa,2026-01-02,15.0,Hà Nội
+463,Kinh doanh phần mềm,2026-01-02,30.0,Hà Nội
+464,Backend Developer,2026-01-02,40.0,Hà Nội
+465,Kỹ sư lập trình PLC/SCADA,2026-01-02,25.0,Hà Nội
+466,Chuyên môn Công nghệ thông tin khác,2026-01-02,50.0,Hà Nội
+467,Kỹ sư lập trình máy,2026-01-31,20.0,Hà Nội
+468,Animation Design,2026-01-02,20.0,Hà Nội
+469,Software Engineer,2026-01-31,30.0,Hồ Chí Minh
+470,Kỹ thuật IT,2026-01-02,12.0,Hà Nội
+471,IT Project Manager,2026-01-02,45.0,Hà Nội
+474,Kinh doanh phần mềm,2026-01-10,25.0,Hà Nội
+475,Chuyên môn Công nghệ thông tin khác,2026-01-01,9.0,Hà Nội
+476,Manual Tester,2026-01-02,28.0,Hà Nội
+477,IT Project Manager,2026-01-01,60.0,Hà Nội
+478,Thiết kế đồ họa,2026-01-01,15.0,Hà Nội
+479,Thiết kế đồ họa,2026-01-15,13.0,Hà Nội
+480,Kiểm soát chất lượng,2026-01-01,15.0,Hải Phòng
+481,Trợ lý kinh doanh,2026-01-31,20.0,Hà Nội
+482,Software Tester,2026-01-02,25.0,Hà Nội
+483,IT Project Manager,2026-01-15,145.8,Nước Ngoài
+484,Animation Design,2026-01-01,14.0,Hà Nội
+485,Thiết kế đồ họa,2026-01-01,6.0,Hà Nội
+486,Kỹ sư cơ khí,2026-01-01,16.0,Hà Nội
+487,Animation Design,2026-01-01,12.0,Hà Nội
+488,Data Analyst,2026-01-01,35.0,Hà Nội
+489,Thiết kế đồ họa,2026-01-12,12.0,Hà Nội
+490,Thiết kế đồ họa,2026-01-01,3.0,Hồ Chí Minh
+491,IT Consultant,2026-01-01,14.0,Hà Nội
+492,Thiết kế đồ họa,2025-12-31,15.0,Hà Nội
+493,Thiết kế đồ họa,2025-12-31,1.5,Hà Nội
+494,Thiết kế đồ họa,2025-12-31,3.0,Hà Nội
+495,Animation Design,2025-12-31,15.0,Hồ Chí Minh
+496,Sales IT Phần mềm khác,2025-12-31,10.0,Cần Thơ
+497,Thiết kế đồ họa,2026-01-31,14.0,Hà Nội
+498,Thiết kế đồ họa,2025-12-31,1.2,Hà Nội
+499,Kinh doanh phần mềm,2026-01-31,70.0,Hà Nội
+501,Thiết kế đồ họa,2025-12-31,12.0,Hồ Chí Minh
+502,Game Design,2025-12-31,27.0,Hà Nội
+503,Kỹ sư điện tử viễn thông,2026-01-31,30.0,Hà Nội
+504,Thiết kế đồ họa,2025-12-31,20.0,Hồ Chí Minh
+505,Chuyên môn khác,2025-12-31,30.0,Hà Nội
+509,Kinh doanh phần mềm,2025-12-31,9.0,Hà Nội
+510,System Engineer,2025-12-31,32.0,Hà Nội
+511,Chuyên viên Cyber Security,2025-12-31,40.0,Hà Nội
+513,Thiết kế đồ họa,2025-12-31,15.0,Nghệ An
+514,Thợ Gia công cơ khí khác,2026-01-31,16.0,Hồ Chí Minh
+515,Backend Developer,2025-12-31,35.0,Hà Nội
+516,Technical Leader,2025-12-31,67.5,Hà Nội
+517,Concept Artist,2025-12-31,30.0,Hà Nội
+519,Chuyên môn khác,2025-12-31,35.0,Hà Nội
+521,UI/UX Design,2025-12-31,45.0,Hà Nội
+522,Kinh doanh phần mềm,2025-12-31,20.0,Hồ Chí Minh
+523,Kinh doanh phần mềm,2025-12-31,20.0,Hà Nội
+524,DevOps Engineer,2025-12-31,30.0,Hà Nội
+525,Thiết kế đồ họa,2025-12-31,16.0,Hồ Chí Minh
+526,IT Helpdesk/IT support,2025-12-30,6.0,Huế
+527,Kinh doanh Domain/Hosting/Server,2025-12-31,18.0,Hồ Chí Minh
+528,Thiết kế đồ họa,2025-12-31,10.0,Hồ Chí Minh
+529,Thiết kế đồ họa,2025-12-29,3.0,Hồ Chí Minh
+530,Thiết kế đồ họa,2025-12-31,12.0,Hà Nội
+531,Thiết kế đồ họa,2025-12-29,15.0,Hà Nội
+534,Thiết kế đồ họa,2025-12-28,25.0,Hồ Chí Minh
+535,IT Project Manager,2025-12-31,20.0,Hồ Chí Minh
+536,Chuyên môn Công nghệ thông tin khác,2025-12-28,12.0,Hà Nội
+537,Thiết kế đồ họa,2025-12-28,15.0,Hà Nội
+539,Digital Marketing,2025-12-28,25.0,Hà Nội
+541,Thiết kế đồ họa,2025-12-28,12.0,Hồ Chí Minh
+542,Mobile Developer,2025-12-31,26.0,Hà Nội
+543,Chuyên môn Công nghệ thông tin khác,2025-12-28,18.0,Hà Nội
+544,Illustration,2025-12-31,20.0,Đồng Nai
+545,Business Analyst,2025-12-28,15.0,Hà Nội
+546,Quản lý chất lượng khác,2025-12-28,18.0,Hưng Yên
+547,Thiết kế đồ họa,2025-12-28,20.0,Hồ Chí Minh
+549,Kinh doanh phần mềm,2026-01-01,15.0,Hà Nội
+551,Concept Artist,2026-01-10,40.0,Hà Nội
+552,Kỹ sư phần cứng,2025-12-28,15.0,Hà Nội
+553,Chuyên môn Quảng cáo/Sáng tạo khác,2025-12-28,15.0,Hà Nội
+554,Thiết kế đồ họa,2025-12-28,16.0,Hà Nội
+555,Concept Artist,2025-12-28,10.0,Thái Nguyên
+556,Thiết kế đồ họa,2025-12-31,16.0,Hà Nội
+557,3D Modeler,2025-12-28,35.0,Hồ Chí Minh
+560,Animation Design,2026-01-31,15.0,Hồ Chí Minh
+561,Solution Architect,2026-01-14,80.0,Hà Nội
+562,Fullstack Developer,2025-12-27,15.0,Nghệ An
+563,Thiết kế đồ họa,2025-12-28,15.0,Hồ Chí Minh
+564,Kinh doanh phần mềm,2026-01-31,15.0,Hà Nội
+565,Fullstack Developer,2025-12-27,30.0,Hà Nội
+566,Kinh doanh Domain/Hosting/Server,2025-12-27,8.0,Cần Thơ
+567,Manual Tester,2025-12-27,28.0,Hà Nội
+568,Thiết kế đồ họa,2025-12-27,16.0,Hồ Chí Minh
+569,Software Tester,2026-01-31,31.0,Hà Nội
+570,Thiết kế đồ họa,2025-12-27,12.0,Hồ Chí Minh
+572,Manual Tester,2026-01-31,28.0,Hà Nội
+573,Thiết kế đồ họa,2025-12-27,15.0,Hà Nội
+574,Kinh doanh phần mềm,2025-12-27,50.0,Hà Nội
+576,Chuyên môn Công nghệ thông tin khác,2025-12-31,20.0,Hà Nội
+577,Mobile Developer,2025-12-31,40.0,Hà Nội
+578,Thiết kế đồ họa,2025-12-31,20.0,Thanh Hóa
+579,Chuyên môn Biên tập/Viết/Xuất bản khác,2025-12-27,12.0,Hà Nội
+581,Animation Design,2025-12-31,14.0,Hà Nội
+582,Animation Design,2025-12-31,15.0,Hà Nội
+583,Kinh doanh phần mềm,2025-12-26,5.0,Hà Nội
+584,Concept Artist,2025-12-26,20.0,Hà Nội
+585,Thiết kế đồ họa,2026-01-25,23.0,Hồ Chí Minh
+586,Kỹ sư lập trình máy,2026-01-30,15.0,Hải Phòng
+587,Kinh doanh phần mềm,2025-12-26,20.0,Hồ Chí Minh
+588,Software Engineer,2025-12-31,55.0,Hà Nội
+589,Kinh doanh phần mềm,2026-01-16,35.0,Hà Nội
+590,Kinh doanh phần mềm,2025-12-26,35.0,Hà Nội
+591,Thiết kế đồ họa,2025-12-26,10.0,Hà Nội
+593,Chuyên môn Công nghệ thông tin khác,2025-12-26,25.0,Hà Nội
+594,Sales IT Phần mềm khác,2025-12-31,20.0,Hồ Chí Minh
+596,Thiết kế đồ họa,2025-12-26,15.0,Hồ Chí Minh
+597,Kinh doanh phần mềm,2025-12-26,12.0,Hà Nội
+598,Thiết kế đồ họa,2025-12-26,25.0,Hà Nội
+599,Kinh doanh phần mềm,2025-12-26,25.0,Hồ Chí Minh
+600,Business Analyst,2026-01-14,41.0,Hà Nội
+601,Kinh doanh phần mềm,2025-12-26,30.0,Hà Nội
+602,System Administrator,2025-12-26,16.0,Quảng Ninh
+603,Kỹ sư cơ khí,2025-12-31,16.0,Hà Nội
+604,Thiết kế đồ họa,2025-12-26,10.0,Huế
+605,Thiết kế đồ họa,2025-12-28,2.0,Hà Nội
+607,Thiết kế đồ họa,2025-12-28,12.0,Hà Nội
+608,DevOps Engineer,2025-12-31,37.0,Hà Nội
+609,Thiết kế đồ họa,2025-12-26,14.0,Hà Nội
+610,Network Engineer,2025-12-31,15.0,Hà Nội
+611,Ad Operations Manager,2025-12-25,17.0,Hà Nội
+612,Thiết kế đồ họa,2025-12-25,27.0,Hà Nội
+613,Thiết kế đồ họa,2025-12-25,15.0,Hà Nội
+614,Thiết kế đồ họa,2025-12-25,1.0,Hồ Chí Minh
+616,Thiết kế đồ họa,2025-12-25,17.0,Hà Nội
+617,Thiết kế đồ họa,2025-12-31,15.0,Hồ Chí Minh
+618,Chuyên viên IT Security,2025-12-31,30.0,Hà Nội
+619,Animation Design,2025-12-25,15.0,Hà Nội
+620,Kỹ sư thiết kế điện,2025-12-25,20.0,Hà Nội
+621,Chuyên môn khác,2025-12-25,43.0,Hà Nội
+623,Thiết kế đồ họa,2025-12-31,13.0,Nghệ An
+624,Thiết kế đồ họa,2025-12-31,24.0,Hà Nội
+625,Thiết kế đồ họa,2025-12-25,25.0,Hà Nội
+627,Chuyên môn khác,2025-12-25,7.0,Hà Nội
+628,Kinh doanh phần mềm,2025-12-24,15.0,Hà Nội
+629,Thiết kế đồ họa,2025-12-24,5.0,Hà Nội
+630,Manual Tester,2025-12-31,30.0,Hà Nội
+631,Software Engineer,2025-12-31,35.0,Hà Nội
+632,Digital Front end Designer,2025-12-24,28.0,Hà Nội
+633,IT Consultant,2025-12-25,45.0,Hà Nội
+634,Product Owner/Product Manager,2025-12-24,25.0,Hà Nội
+635,Kinh doanh phần mềm,2025-12-31,60.0,Hà Nội
+636,Kinh doanh phần mềm,2025-12-24,40.0,Hà Nội
+637,Cloud Engineer,2025-12-31,27.0,Hà Nội
+638,Thiết kế đồ họa,2025-12-24,6.0,Hà Nội
+639,Thiết kế đồ họa,2025-12-31,17.0,Hà Nội
+640,"Sales Leader B2B/ Trưởng Nhóm Kinh Doanh Phần Mềm, Thu Nhập 15 40 Triệu, Nghỉ T7 & CN",2025-12-25,40.0,Hồ Chí Minh
+641,Senior Telecom Operation Specialist,2026-01-19,40.5,Hồ Chí Minh
+642,Cloud System Operations,2025-12-20,54.0,Hồ Chí Minh
+643,Chuyên viên tư vấn triển khai phần mềm ERP,2026-01-15,30.0,Hồ Chí Minh
+644,Chuyên viên Phát Triển Ứng Dụng – Mobile & Web Full Stack Developer,2026-01-15,35.0,Hồ Chí Minh
+645,Account Manager,2026-01-07,30.0,Hồ Chí Minh
+646,Nhân Viên Kinh Doanh TPHCM Thu nhập đến 25tr,2025-12-26,25.0,Hồ Chí Minh
+647,Nhân viên IT Helpdesk Tiếng Nhật N3,2026-01-18,17.0,Hồ Chí Minh
+648,IT Helpdesk,2026-01-31,14.0,Hồ Chí Minh
+649,Trưởng nhóm IT,2026-01-15,30.0,Hồ Chí Minh
+650,Nhân Viên Vận Hành Triển Khai Phần Mềm,2026-01-13,15.0,Hồ Chí Minh
+651,Senior Data Analyst,2025-12-21,40.5,Hồ Chí Minh
+652,Nhân viên IT,2026-01-13,15.0,Hưng Yên
+653,Chuyên viên Phân tích Nghiệp vụ,2026-01-11,25.0,Hà Nội
+654,Product Owner Web3,2026-01-05,55.0,Hà Nội
+655,Test Leader Fuel Level Sensor Design,2025-12-31,35.0,Hà Nội
+656,Nhân viên Kinh doanh Thị trường/Direct Sales,2025-12-21,50.0,Hồ Chí Minh
+657,Business Analyst,2026-01-13,35.0,Hà Nội
+658,Nhân Viên SEO Và Quản Trị Website,2026-01-10,15.0,Dak Lak
+659,Chuyên viên quản lý sản phẩm,2026-01-05,40.0,Hà Nội
+660,Chuyên Viên Quản Trị Hệ Thống,2026-01-05,40.0,Hà Nội
+661,Nhân Viên Thiết Kế Quảng Cáo,2026-01-05,15.0,Hà Nội
+662,Trưởng Phòng Kinh Doanh,2026-01-19,25.0,Hồ Chí Minh
+663,"Quản lý dự án IT có Tiếng Nhật 27096 Thạnh Mỹ Tây, HCM",2026-01-18,50.0,Hồ Chí Minh
+664,Chuyên Viên Quản Lý Vận Hành Kênh Số & Phân Tích Dữ Liệu,2026-01-18,25.0,Hà Nội
+665,Trưởng nhóm Kinh doanh,2026-01-04,40.0,Hồ Chí Minh
+666,AI Content Creator,2025-12-31,30.0,Hồ Chí Minh
+667,PHÓ PHÒNG BẢO TRÌ ĐIỆN NHẸ,2025-12-31,25.0,Hồ Chí Minh
+668,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ,2025-12-31,25.0,Hà Nội
+669,Nhân Viên Kiểm Soát Chất Lượng – QC,2026-01-11,14.0,Đồng Nai
+670,Senior Data Engineer TNTech 2V047,2026-01-07,45.0,Hà Nội
+671,Senior Business Analyst TNTech 2V045,2026-01-07,45.0,Hà Nội
+672,Nhân viên IT Network,2026-02-28,15.0,Hồ Chí Minh
+673,SAP BASIS CONSULTANT,2025-12-31,60.0,Hồ Chí Minh
+674,Nhân Viên Kinh Doanh Máy Tính Lương cạnh tranh từ 12 20 triệu,2026-01-09,20.0,Hà Nội
+675,IT Service Desk Technician,2026-01-14,33.0,Hà Nội
+676,Chuyên viên Phân tích nghiệp vụ,2026-01-14,30.0,Hà Nội
+677,Fulltime Odoo Developer có kinh nghiệm,2025-12-16,22.0,Hồ Chí Minh
+678,C++ / C# Talented Developers,2025-12-31,60.0,Hà Nội
+679,Devops Engineer,2026-01-18,28.0,Hồ Chí Minh
+680,Junior Product Specialist,2026-01-13,20.0,Hà Nội
+681,Product Manager,2026-01-13,40.0,Hà Nội
+682,Trưởng nhóm Nghiên cứu và Phát triển thị trường,2025-12-31,40.0,Hà Nội
+683,Nhân viên kế toán bán hàng thời vụ,2026-01-12,10.0,Hồ Chí Minh
+684,AI Engineer,2026-01-12,50.0,Hà Nội
+685,Business Analyst,2026-01-11,15.0,Đà Nẵng
+686,Nhân viên Giám Sát Camera,2025-12-28,15.0,Hồ Chí Minh
+687,Quản Lý Kinh Doanh Kênh Phân Phối Miền Bắc,2026-01-10,15.0,Hà Nội
+688,Lập trình viên Frontend,2026-01-10,25.0,Hà Nội
+689,Senior Application Operation Specialist,2026-01-10,40.5,Hồ Chí Minh
+690,KỸ THUẬT THI CÔNG ĐIỆN – ĐIỆN NHẸ,2025-12-21,17.0,Hồ Chí Minh
+691,"Nhân viên thiết kế chuyển động 27027 Quận 1, HCM",2025-12-06,30.0,Hồ Chí Minh
+692,IT Web & Automation Specialist,2026-01-15,28.0,Hồ Chí Minh
+693,"Quản lý khách hàng 27048 Quận 4, HCM",2026-01-09,20.0,Hồ Chí Minh
+694,Nhân Viên Thiết Kế Chuyển Động,2026-01-06,50.0,Hồ Chí Minh
+695,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ ERP,2026-01-07,30.0,Hà Nội
+696,Phân tích nghiệp vụ Tự động hóa quy trình,2026-01-07,30.0,Hà Nội
+697,Trưởng Phòng IT Công nghệ thông tin,2025-12-31,60.0,Hà Nội
+698,AI Engineer,2025-12-31,18.0,Hồ Chí Minh
+699,Sales Executive,2026-01-06,40.5,Hồ Chí Minh
+700,Bình Dương Kỹ sư phát triển Power Platform,2026-01-06,18.0,Bình Dương
+701,Nhân viên Developer,2026-01-05,25.0,Hà Nội
+702,Quality Control LOS,2026-01-05,43.2,Hồ Chí Minh
+704,Legal Counsel,2026-01-05,35.0,Hà Nội
+705,124001 C# Senior/Tech Leader IT,2026-01-04,100.0,Hồ Chí Minh
+706,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ ERP,2026-01-04,30.0,Hà Nội
+707,Frontend Developer,2026-01-02,25.0,Hồ Chí Minh
+708,Chuyên viên kinh doanh CNTT Lương cứng từ 8 12 triệu,2025-12-30,20.0,Hồ Chí Minh
+709,CVCC Đại diện đơn vị nghiệp vụ SI MSB 3K029,2025-12-29,35.0,Hà Nội
+710,AI Engineer,2025-12-29,35.0,Hà Nội
+711,Nhân viên Kế Hoạch,2025-12-28,30.0,Bắc Ninh
+712,Kỹ sư hệ thống Tại Hà Nội,2025-12-28,17.0,Đà Nẵng
+713,Nhân Viên Hồ sơ Dự Án,2025-12-28,17.0,Đà Nẵng
+714,Giám Đốc Ban Pháp Chế Head of Legal,2025-12-28,90.0,Hà Nội
+715,Trợ lý Tổng Giám đốc,2025-12-28,30.0,Hà Nội
+716,"Kỹ sư giám sát hiện trường Tại Hà Nội, Vũng Tàu, Phú Quốc",2025-12-28,17.0,Hà Nội
+717,Phó Phòng Nghiên Cứu Phân Tích Thị Trường,2025-12-24,30.0,Hồ Chí Minh
+718,"Expert, Salesforce Developer",2025-12-22,20.0,Hồ Chí Minh
+719,"Senior Officer, Information Security",2025-12-22,20.0,Hà Nội
+720,Java Developer,2025-12-22,40.5,Hồ Chí Minh
+721,Chuyên viên tài liệu và đào tạo CNTT,2025-12-21,25.0,Hà Nội
+722,Cán Bộ Phát triển phần mềm,2025-12-21,40.0,Hà Nội
+723,Nhân Viên Kỹ Thuật Điện Tử Đi làm ngay,2026-01-19,11.0,Hồ Chí Minh
+724,Data Scientist AI Engineer,2026-01-19,55.0,Hà Nội
+725,Junior CloudOps / SysOps Unix & Linux,2026-01-31,25.0,Hồ Chí Minh
+726,SRE Site Reliability Engineer,2026-01-19,35.0,Hà Nội
+727,Kỹ sư cơ khí.,2026-01-19,15.0,Hà Nội
+728,Chuyên viên ERP,2026-01-19,21.6,Long An
+729,Kỹ sư Phân tích nghiệp vụ,2026-01-19,23.0,Hà Nội
+730,Flutter Developer,2026-01-19,24.0,Hà Nội
+731,"Trưởng Phòng Kỹ Thuật Mạng, Camera",2026-01-19,30.0,Hồ Chí Minh
+732,Kỹ Sư Công Nghệ Thông Tin,2026-01-19,18.0,Kiên Giang
+733,Chuyên Viên Phân Tích Và Phát Triển Ứng Dụng,2026-01-23,20.0,Hồ Chí Minh
+734,Business Analyst kiêm Tester,2026-01-18,23.0,Hà Nội
+735,Nhân viên bảo trì,2026-01-18,12.0,Hồ Chí Minh
+736,Giáo Viên dạy Lập Trình/Coding Teacher Quận 9,2026-01-18,65.0,Hồ Chí Minh
+737,UX/UI Designer,2026-01-18,25.0,Hồ Chí Minh
+738,Kỹ thuật IT,2026-01-18,26.0,Hà Nội
+739,IT SUPPORT,2026-01-18,14.0,Bình Dương
+740,DATA ENGINNER,2026-01-18,30.0,Hà Nội
+741,Kỹ Sư Dự Án,2026-01-18,18.0,Hà Nội
+742,Business Analyst ERP,2025-12-30,25.0,Hà Nội
+743,Data Analyst,2025-12-30,25.0,Hà Nội
+744,Nhân viên Lập trình Python ODoo,2025-12-31,18.0,Hà Nội
+745,Nhân viên IT support,2025-12-31,17.0,Hà Nội
+746,Chuyên viên Lập trình Python ODoo,2025-12-31,30.0,Hà Nội
+747,AI Engineer,2025-12-31,35.0,Hà Nội
+748,BUSINESS ANALYST,2025-12-31,14.0,Hồ Chí Minh
+749,Web Platform & Tech Solutions Lead,2025-12-31,30.0,Hồ Chí Minh
+750,CHUYÊN VIÊN LẬP TRÌNH,2025-12-31,16.0,Hồ Chí Minh
+751,Chuyên viên cao cấp Tổ chức Triển khai và Vận hành Ứng dụng CNTT,2026-01-17,35.0,Hồ Chí Minh
+752,Chuyên viên cao cấp Tổ chức Phân tích Nghiệp vụ CNTT,2026-01-16,30.0,Hồ Chí Minh
+753,Nhân Viên IT hỗ trợ vận hành phần mềm,2026-01-26,17.0,Hà Nội
+754,Chuyên viên tổ chức Quản trị mạng phòng CNTT,2026-01-16,20.0,Hồ Chí Minh
+755,Nhân Viên Kinh Doanh Phần Mềm,2026-02-28,50.0,Hồ Chí Minh
+756,Cộng tác viên SAP ABAP Developer,2026-01-18,25.0,Hà Nội
+757,Tuyển gấp Nhân viên MKT Ads,2026-01-25,20.0,Hà Nội
+758,Nhân viên kỹ thuật máy pha màu sơn,2026-01-31,14.0,Bình Dương
+759,Chuyên viên Phân tích dữ liệu Kinh doanh,2026-01-19,25.0,Hà Nội
+760,Nhân viên Phân tích nghiệp vụ,2026-01-17,20.0,Hà Nội
+761,Trưởng nhóm Triển khai dự án Số hóa,2026-01-17,65.0,Hồ Chí Minh
+762,Trưởng Nhóm Dự Án .,2026-01-17,35.0,Hà Nội
+763,Chuyên viên phân tích nghiệp vụ BA Business Analyst,2026-01-17,18.0,Hà Nội
+764,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ ERP,2026-01-17,30.0,Hà Nội
+765,Nhân viên hỗ trợ người dùng ERP,2026-01-17,16.0,Hà Nội
+767,Chuyên Viên Nghiệp Vụ,2026-01-17,15.0,Hà Nội
+768,Chuyên viên Lập trình Python ODoo,2026-01-17,30.0,Hà Nội
+769,AI Engineer,2026-01-17,35.0,Hà Nội
+770,Nhân viên IT support,2026-01-17,17.0,Hà Nội
+771,Kỹ Sư Vận Hành Dịch Vụ,2026-01-17,15.0,Hà Nội
+772,Lập trình viên Mobile Developer,2025-12-31,25.0,Hà Nội
+773,Kỹ sư Bảo trì & Vận hành Hệ thống,2025-12-28,20.0,Hà Nội
+774,Front End Developer,2025-12-28,35.0,Hà Nội
+775,Chuyên viên Phân tích nghiệp vụ,2025-12-28,30.0,Hà Nội
+776,Chuyên Viên Phân Tích Dữ Liệu,2026-01-05,15.0,Hà Nội
+777,Thực tập sinh Kỹ thuật cơ khí/điện tử,2026-01-05,75.0,Hồ Chí Minh
+778,Software Engineer,2026-01-05,25.0,Hồ Chí Minh
+779,Kỹ Sư Lập Trình Firmware,2026-01-05,15.0,Hồ Chí Minh
+780,Machine Learning Engineer,2026-01-05,25.0,Hồ Chí Minh
+781,Chuyên Viên,2025-12-28,30.0,Hồ Chí Minh
+782,Senior AI Engineer,2025-12-31,50.0,Hà Nội
+783,Kỹ Thuật Giải Pháp Nhà Máy,2026-01-12,20.0,Hồ Chí Minh
+784,Kỹ Sư Bán Hàng iLEAP,2026-01-12,30.0,Hồ Chí Minh
+785,Senior Backend Developer,2026-01-11,33.0,Hồ Chí Minh
+786,Kỹ sư IIOT,2026-01-12,25.0,Hồ Chí Minh
+787,Chuyên viên Lập trình,2026-01-31,25.0,Hà Nội
+788,Chuyên viên Quản trị hệ thống,2026-01-31,25.0,Hà Nội
+789,Chuyên viên Tư vấn giải pháp,2026-01-31,33.0,Hà Nội
+790,Kỹ Sư Giải Pháp Hạ Tầng CNTT,2026-01-31,30.0,Hà Nội
+791,Lập trình viên,2026-01-31,15.0,Hồ Chí Minh
+792,Embedded Linux Engineer,2026-01-12,15.0,Hà Nội
+793,Embedded Engineer,2026-01-16,15.0,Hà Nội
+794,Chuyên viên Công nghệ thông tin Devops,2026-03-31,50.0,Hà Nội
+795,Chuyên viên IT,2026-01-31,15.0,Hà Nội
+796,Embedded Engineer,2025-12-17,15.0,Hà Nội
+797,Backend Developer,2025-12-31,25.0,Hà Nội
+798,Chuyên viên Product designer,2025-12-31,15.0,Hà Nội
+799,Chuyên Viên SAP FICO,2025-12-27,30.0,Hồ Chí Minh
+800,Trưởng Nhóm Tích Hợp Mạng & Bảo Mật,2025-12-27,45.0,Hà Nội
+801,Trợ Lý Dự Án,2025-12-27,20.0,Hà Nội
+802,Lập trình viên,2025-12-27,20.0,Hà Nội
+803,Chuyên Viên Phân Tích Nghiệp Vụ/ BA,2025-12-27,15.0,Hà Nội
+804,Contact Center System Specialist – CC Solution Support,2025-12-27,15.0,Hồ Chí Minh
+805,Product Owner,2025-12-31,30.0,Hà Nội
+806,Chuyên viên tư vấn dự án đầu tư CNTT,2026-01-04,30.0,Hà Nội
+807,Chuyên Viên Kiểm Thử Tự Động,2025-12-31,25.0,Hà Nội
+808,Chuyên gia giải pháp tài khoản và thanh toán RB MSB 1O281,2026-01-03,50.0,Hà Nội
+809,Nhân viên Kỹ thuật Viễn thông,2025-12-31,20.0,Điện Biên
+810,NLP Engineer,2026-02-28,50.0,Đà Nẵng
+811,AI Engineer,2026-01-11,40.0,Hà Nội
+812,NLP Engineer,2026-01-11,40.0,Hà Nội
+813,Trưởng phòng Quản trị dữ liệu,2026-01-11,40.0,Hà Nội
+814,SEO,2026-01-11,12.0,Hồ Chí Minh
+815,Trưởng Bộ Phận Phát Triển Phần Mềm Nhúng,2025-12-31,40.0,Hà Nội
+816,Lập Trình Viên Java,2026-01-31,45.0,Hồ Chí Minh
+817,Kỹ sư tích hợp hệ thống,2025-12-31,25.0,Hà Nội
+818,Kỹ Thuật Thi Công Dự Án,2026-01-10,15.0,Hồ Chí Minh
+819,BẮC TỪ LIÊM BUSINESS ANALYST,2026-01-17,20.0,Hà Nội
+820,Chuyên Viên Nhân Sự HR / HRBP,2026-01-17,25.0,Hà Nội
+821,Data Engineer,2026-01-16,40.0,Hồ Chí Minh
+822,Kỹ Sư Machine Learning,2026-02-15,40.0,Hồ Chí Minh
+823,Kỹ Sư Phần Mềm,2026-01-15,35.0,Bắc Ninh
+824,Nhân viên Digital Marketing,2026-01-15,15.0,Hà Nội
+825,Nhân viên kinh doanh,2026-01-15,15.0,Hà Nội
+826,Nhân viên kinh doanh,2026-01-15,15.0,Hồ Chí Minh
+827,Hà Nội Nhân viên Kỹ thuật Viễn thông,2026-01-15,18.0,Hà Nội
+828,Chuyên Viên Bảo Hành,2025-12-25,15.0,Hà Nội
+829,IT System management,2025-12-26,17.0,Bình Dương
+830,IT Security,2025-12-26,17.0,Bình Dương
+831,Nhân Viên Kinh Doanh,2025-12-25,20.0,Hồ Chí Minh
+832,Nhân Viên Quản Trị Website,2026-01-03,15.0,Hà Nội
+833,Thực tập sinh Kỹ thuật cơ khí/điện tử,2026-01-03,75.0,Hồ Chí Minh
+834,NV Kế Hoạch Mẫu,2026-01-04,11.0,Hồ Chí Minh
+835,Nhân Viên Hỗ Trợ Công Nghệ Thông Tin,2026-01-09,15.0,Hà Nội
+836,Chuyên viên phân tích nghiệp vụ,2026-01-09,30.0,Hà Nội
+837,Kỹ sư AI,2026-01-10,30.0,Hồ Chí Minh
+838,Chuyên viên cao cấp,2025-12-31,20.0,Hà Nội
+839,Nhân Viên Kỹ Thuật IT Triển Khai,2026-01-09,13.0,Hồ Chí Minh
+840,PM Quản lý dự án,2026-01-10,30.0,Hà Nội
+841,Chuyên viên phân tích nghiệp vụ BA,2026-01-01,30.0,Hà Nội
+842,Chuyên viên IT,2026-01-10,18.0,Hà Nội
+843,Trưởng phòng Thiết kế Điện tử,2026-01-31,81.0,Hưng Yên
+844,10 Kỹ Sư Thiết Kế Cơ Khí R&D Mechanical Design Engineer,2026-01-31,35.0,Hưng Yên
+845,Đại diện Thương mại Quốc tế,2025-12-31,20.0,Hồ Chí Minh
+846,Backend Developer,2026-01-30,32.4,Hồ Chí Minh
+847,Tester TT PTUD Khối CNTT,2026-01-30,22.0,Hồ Chí Minh
+848,Nhân viên RPA Developer,2026-01-15,14.0,Hồ Chí Minh
+849,Chuyên viên IT Hardware & Network,2025-12-31,20.0,Hồ Chí Minh
+850,IT ADMIN STAFF,2026-01-25,10.0,Bình Dương
+851,Chuyên viên Cao cấp Tổ chức Hoạch định và Phân tích Tài chính,2026-01-11,30.0,Hồ Chí Minh
+852,Product Designer,2026-01-16,35.0,Hà Nội
+853,CREATIVE WEB3 FRONTEND ENGINEER,2026-01-31,40.0,Hà Nội
+854,BACKEND ENGINEER,2026-01-31,40.0,Hà Nội
+855,Giám đốc tài chính,2026-01-16,100.0,Hồ Chí Minh
+856,Nhân viên IT Helpdesk,2026-01-22,12.0,Hồ Chí Minh
+857,Kỹ thuật viên,2026-01-12,7.0,Hà Nội
+858,Chuyên gia/ Chuyên viên AI,2026-01-14,108.0,Hà Nội
+859,Nhân viên Lập trình,2026-01-14,17.0,Hà Nội
+860,NHÂN VIÊN THIẾT KẾ TẠI HẢI PHÒNG,2026-01-14,12.0,Hải Phòng
+861,Nhân viên Marketing Dự án,2026-01-14,13.0,Hà Nội
+862,Chuyên viên phân tích nghiệp vụ BA,2026-01-14,40.0,Hà Nội
+863,Giám đốc Trung tâm Trí tuệ nhân tạo,2026-01-14,90.0,Hà Nội
+864,Trưởng ban IT,2026-01-14,40.0,Hà Nội
+865,IT Engineer,2025-12-25,25.0,Hồ Chí Minh
+867,Trưởng nhóm Market Insight,2025-12-31,40.0,Hà Nội
+868,Karofi Talent 25 Chương trình Quản lý Tài năng,2026-01-16,81.0,Hưng Yên
+869,NHÂN VIÊN CHĂM SÓC HÌNH ẢNH ACER TẠI TP. HÀ NỘI,2025-12-31,10.0,Hà Nội
+870,Back end Developer,2025-12-31,25.0,Hà Nội
+871,IT Risk & Compliance Chief,2026-01-02,25.0,Hồ Chí Minh
+872,AI Backend Engineer,2026-02-01,30.0,Hồ Chí Minh
+873,UX/UI Designer,2026-01-01,22.0,Hà Nội
+874,AI / NLP Engineer,2026-02-28,50.0,Đà Nẵng
+875,Fresher Performance Marketing SGN,2026-01-09,135.0,Hà Nội
+876,Marketing Insights Analyst,2026-01-31,25.0,Hà Nội
+877,Digital Marketing Lead,2026-01-09,189.0,Hà Nội
+878,Junior Performance Marketing upto $5000,2026-01-09,135.0,Hà Nội
+879,Marcom Account Executive,2026-01-08,15.0,Hà Nội
+880,Quản lý dự án ERP,2026-01-09,50.0,Hà Nội
+881,Chuyên viên phân tích nghiệp vụ ERP,2026-01-09,25.0,Hà Nội
+882,Lập trình viên,2026-01-09,20.0,Hà Nội
+883,Chuyên viên tài liệu và đào tạo CNTT,2026-01-09,18.0,Hà Nội
+884,CHUYÊN VIÊN LẬP TRÌNH ERP,2025-12-31,28.0,Hà Nội
+885,Trưởng phòng Kinh doanh,2026-01-31,50.0,Hà Nội
+886,IT Developer,2026-01-15,25.0,Bình Dương
+887,Giám Đốc Công Nghệ Thông Tin,2026-01-13,162.0,Hà Nội
+888,Nhân Viên Công Nghệ Thông Tin,2026-01-13,15.0,Hà Nội
+889,Mobile Developer,2026-01-13,45.9,Hà Nội
+890,Technical Product Owner,2026-01-13,50.0,Hồ Chí Minh
+891,Phó Phòng Giải Pháp Công Nghệ Cao,2026-01-13,40.0,Hà Nội
+892,Sign on Bonus FULL STACK DEVELOPER,2026-01-13,30.0,Hồ Chí Minh
+893,CHUYÊN VIÊN VẬN HÀNH HỆ THỐNG KHO,2026-01-13,15.0,Hà Nội
+894,Chuyên viên Quan trị rủi ro,2026-01-31,35.0,Hà Nội
+895,CHUYÊN VIÊN HỖ TRỢ KHÁCH HÀNG,2025-12-31,12.0,Hồ Chí Minh
+896,Chuyên viên Quản lý dự án,2026-01-01,25.0,Hà Nội
+897,"Chuyên viên hỗ trợ vận hành và phát triển hệ thống SAP , phân hệ tài chính kế toán",2025-12-24,20.0,Hà Nội
+898,SAP ABAP Senior Specialist,2025-12-31,31.0,Hồ Chí Minh
+899,Trưởng bộ phận Quản trị hệ thống,2025-12-31,28.0,Hà Nội
+900,Chuyên viên An ninh thông tin,2025-12-31,18.0,Hà Nội
+901,Hà Nội Nhân viên Kỹ thuật Viễn thông,2025-12-27,18.0,Hà Nội
+902,Technical Support,2025-12-24,15.0,Hồ Chí Minh
+903,Chuyên viên phân tích nghiệp vụ Business Analyst,2025-12-31,25.0,Hà Nội
+904,Nhân viên kỹ thuật IT phần cứng,2025-12-31,26.0,Hà Nội
+905,Trưởng Bộ Phận Hành Chính Nhân Sự,2026-01-01,30.0,Hà Nội
+906,10 Kỹ Sư Thiết Kế Cơ Khí R&D Mechanical Design Engineer,2026-01-31,35.0,Hà Nội
+907,Backend Developer,2025-12-31,40.0,Hồ Chí Minh
+908,Nhân viên trải nghiệm phần mềm Viettel,2025-12-30,12.0,Hà Nội
+909,Trưởng phòng kỹ thuật CN Vĩnh Phúc,2026-01-08,11.0,Vĩnh Phúc
+910,Chuyên viên An ninh thông tin,2026-01-12,20.0,Hà Nội
+911,CHUYEN VIÊN IT,2026-01-12,12.0,Tây Ninh
+912,Flutter Developer,2026-01-12,20.0,Hà Nội
+914,Data Analytics Assistant Manager,2026-01-12,27.0,Hà Nội
+915,Kỹ Sư Thiết Kế Cơ Khí R&D Mechanical Design Engineer,2026-01-12,25.0,Hà Nội
+916,Chuyên gia Tăng trưởng số,2026-01-12,54.0,Hà Nội
+917,Chuyên viên IT Vận hành,2026-01-12,17.0,Hà Nội
+918,Business Analyst,2026-01-12,25.0,Hà Nội
+919,Software Developer Chuyên Frontend,2026-01-12,25.0,Hà Nội
+920,Software Developer Chuyên Backend,2026-01-12,25.0,Hà Nội
+921,Nhân viên Tester,2026-01-12,18.0,Hà Nội
+923,Manual QC Engineer,2026-01-11,35.0,Hồ Chí Minh
+924,Chuyên Viên Quản lý dự án Công nghệ thông tin,2026-01-11,18.0,Hà Nội
+925,SAP Engineer/Executive,2026-01-11,40.0,Đồng Nai
+926,Chuyên viên An toàn thông tin,2026-01-11,25.0,Hà Nội
+927,Chuyên viên Quản trị hệ thống,2026-01-11,25.0,Hà Nội
+928,Chuyên viên Đảm Bảo Hoạt Động Hạ Tầng Thiết Bị,2026-01-11,20.0,Hồ Chí Minh
+929,Trưởng phòng công nghệ thông tin,2025-12-31,35.0,Hà Nội
+930,IT Business Analyst,2025-12-31,50.0,Hà Nội
+931,Kỹ sư lập trình nhúng Embedded Engineer,2026-01-10,35.0,Hà Nội
+932,Nhân viên Kế hoạch tổng hợp,2026-01-10,20.0,Hà Nội
+933,Senior Full stack Developer Odoo,2026-01-10,42.0,Hà Nội
+934,Chuyên viên Kiểm thử tự động,2026-01-10,40.0,Hà Nội
+935,SALES ENGINEER,2026-01-10,30.0,Hà Nội
+936,Nhân viên kỹ thuật CNTT,2026-01-10,14.0,Hà Nội
+937,Kỹ sư điện tử,2026-01-10,15.0,Hà Nội
+938,Nhân viên IT Helpdesk,2026-01-10,13.0,Hà Nội
+939,Nhân Viên IT Helpdesk,2025-12-30,15.0,Hà Nội
+940,IT Business Analyst,2025-12-20,25.0,Hà Nội
+941,Chuyên viên Khối Kỹ thuật Talent Acquisition Excecutive,2026-01-09,20.0,Hà Nội
+942,THỰC TẬP SINH BUSINESS ANALYST,2026-01-20,7.0,Hà Nội
+943,Firmware Developer,2026-01-08,40.5,Hà Nội
+944,Business Analyst – Software Development JLPT N`2 and Above,2026-01-08,30.0,Hồ Chí Minh
+946,CHUYÊN VIÊN TÀI CHÍNH AM HIỂU CÔNG NGHỆ,2026-01-07,30.0,Hà Nội
+947,Lập trình viên Fullstack .net,2026-01-07,25.0,Hà Nội
+948,TRƯỞNG NHÓM IT SUPPORT,2026-01-07,15.0,Hà Nội
+949,CHUYÊN VIÊN LẬP TRÌNH PYTHON ODOO,2026-01-07,30.0,Hà Nội
+950,Chuyên viên phân tích nghiệp vụ BA,2026-01-07,35.0,Hà Nội
+951,Data Analyst,2026-01-07,18.0,Hà Nội
+952,Nhân viên IT,2026-01-06,20.0,Hà Nội
+953,Giảng Viên Thiết Kế Vi Mạch,2026-01-06,20.0,Hồ Chí Minh
+954,Nghiên cứu viên PTN Truyền thông đa phương tiện,2026-01-06,60.0,Hồ Chí Minh
+955,Giảng viên Hệ thống thông tin,2026-01-06,60.0,Hồ Chí Minh
+956,Chuyên viên Kiểm thử tự động,2026-01-06,40.0,Hà Nội
+957,Giảng viên Hệ thống nhúng và robot,2026-01-06,60.0,Hồ Chí Minh
+958,Giảng viên Công nghệ phần mềm,2026-01-06,60.0,Hồ Chí Minh
+959,Java Developer,2026-01-06,34.0,Hà Nội
+960,Giảng viên An toàn thông tin,2026-01-06,60.0,Hồ Chí Minh
+961,Nghiên cứu viên PTN Hệ thống thông tin,2026-01-06,60.0,Hồ Chí Minh
+962,Giảng viên Thiết bị di động và Công nghệ Web,2026-01-06,60.0,Hồ Chí Minh
+963,Giảng viên Truyền thông dữ liệu,2026-01-06,60.0,Hồ Chí Minh
+964,Nghiên cứu viên PTN An toàn thông tin,2026-01-06,145.0,Hồ Chí Minh
+965,Mid Software Engineer,2026-01-06,35.0,Hà Nội
+966,Giảng viên Khoa học máy tính,2026-01-06,60.0,Hồ Chí Minh
+967,Chuyên Viên Chuyển Đổi Số,2026-01-06,17.0,Hồ Chí Minh
+968,IT Auditor Chuyên Viên Kiểm Toán Công Nghệ Thông Tin,2026-01-06,20.0,Hồ Chí Minh
+969,NHÂN VIÊN BẢO TRÌ,2026-01-06,12.0,Hồ Chí Minh
+970,Business Development Manager,2026-01-05,27.0,Hồ Chí Minh
+971,10 Kỹ Sư Thiết Kế Cơ Khí R&D Mechanical Design Engineer,2026-01-05,35.0,Hà Nội
+972,Database Administrator,2026-01-05,45.0,Hà Nội
+973,NHÂN VIÊN TRIỂN KHAI DỰ ÁN,2026-01-05,18.0,Hồ Chí Minh
+974,Nhân viên Content SEO,2026-01-05,14.0,Hà Nội
+975,Nhân Viên Tư Vấn Bán Hàng Hãng ACER tại Hà Nội,2026-01-05,15.0,Hà Nội
+976,Digital Marketing,2026-01-05,14.0,Hồ Chí Minh
+977,Trưởng Bộ Phận Marketing,2026-01-05,35.0,Hà Nội
+978,Project manager,2026-01-05,50.0,Bà Rịa - Vũng Tàu
+979,Chuyên Viên Phát Triển Và Tích Hợp Hệ Thống,2026-01-04,30.0,Hà Nội
+980,Kỹ sư lập trình nhúng Embedded Engineer,2026-01-04,25.0,Hà Nội
+981,HCM Giáo viên Tin học,2026-01-04,12.0,Hồ Chí Minh
+982,Nhân viên hỗ trợ người dùng và phân tích nghiệp vụ ERP,2026-01-04,16.0,Hà Nội
+983,Chuyên Viên Phân Tích Dữ Liệu,2026-01-04,25.0,Hà Nội
+984,Nhân viên phát triển kinh doanh,2026-01-04,21.6,Hà Nội
+985,QA Engineer,2026-01-04,22.0,Hà Nội
+986,Business Analyst,2026-01-04,22.0,Hà Nội
+987,Business Analyst,2026-01-04,20.0,Hà Nội
+988,Lập Trình Android,2026-01-04,25.0,Hà Nội
+990,Giáo viên Tin học,2026-01-03,15.0,Hà Nội
+991,Lập trình viên,2026-01-03,16.0,Hà Nội
+992,Middle/Senior Mobile Developer,2026-01-03,50.0,Hà Nội
+993,Chuyên viên Phát triển Phần mềm Odoo,2026-01-03,45.0,Hà Nội
+994,Trợ lý Ban lãnh đạo,2026-01-03,35.0,Hà Nội
+995,Kỹ Sư Kinh Doanh,2026-01-03,30.0,Hồ Chí Minh
+996,Trưởng Bộ Phận Hành Chính Nhân Sự,2026-01-03,30.0,Hà Nội
+997,System Administrator,2026-01-03,25.0,Hà Nội
+998,Backend Developer,2026-01-03,50.0,Hà Nội
+999,Chuyên Viên Quản lý dự án Công nghệ thông tin,2026-01-03,18.0,Hà Nội
+1000,Lập trình viên,2026-01-03,20.0,Hà Nội
+1001,Chuyên viên Phân tích dữ liệu,2025-12-31,25.0,Hồ Chí Minh
+1002,Nhân Viên IT Helpdesk/IT Support,2025-12-31,17.0,Hồ Chí Minh
+1003,Senior Financial Analyst,2026-01-02,20.0,Hồ Chí Minh
+1004,AI Prompt Training Specialist,2026-01-02,12.0,Hà Nội
+1005,Lập trình viên .NET,2026-01-02,25.0,Hà Nội
+1006,Chuyên Viên Kiểm Thử phần mềm Tester,2026-01-02,20.0,Hà Nội
+1007,Chuyên Viên Triển Khai Ứng Dụng,2025-12-31,40.0,Hồ Chí Minh
+1008,IT Helpdesk,2026-01-01,29.7,Hà Nội
+1009,IT Risk & Compliance Chief,2026-01-01,25.0,Hồ Chí Minh
+1010,Chuyên viên Khối Công Nghệ Talent Acquisition Specialist,2026-01-01,18.0,Hà Nội
+1011,Trưởng phòng Công nghệ thông tin Đi làm ngay,2026-01-31,40.0,Hồ Chí Minh
+1012,Kỹ Sư Vision,2025-12-31,30.0,Hà Nội
+1013,Chuyên viên phân tích nghiệp vụ,2025-12-31,35.0,Hà Nội
+1014,IT Leader,2025-12-20,35.0,Hồ Chí Minh
+1015,Test Engineer,2025-12-30,15.0,Hà Nội
+1016,"Nhân Viên Kỹ Thuật Thi Công Hệ Thống Mạng, Camera",2025-12-30,13.0,Hồ Chí Minh
+1017,Quản Lý Công Nghệ Đúc Kim Loại,2025-12-30,94.5,Hà Nam
+1018,Chuyên viên IT,2025-12-30,15.0,Tây Ninh
+1019,Nhân Viên Công Nghệ Thông Tin,2025-12-30,12.0,Phú Thọ
+1020,Product Owner,2025-12-30,45.0,Hồ Chí Minh
+1021,Nhân Viên Kiểm Thử Phần Mềm Middle Tester/QC,2025-12-30,20.0,Hà Nội
+1022,Flutter Developer,2025-12-30,25.0,Hà Nội
+1023,FE DEVELOPER,2025-12-31,18.0,Hồ Chí Minh
+1024,Senior IT Security,2025-12-29,40.0,Hà Nội
+1026,KỸ SƯ THI CÔNG ĐIỆN,2025-12-29,20.0,Hà Nội
+1027,Nhân viên Lập trình Pos Odoo Python,2025-12-29,19.0,Hà Nội
+1028,Nhân viên hỗ trợ người dùng ERP,2025-12-29,16.0,Hà Nội
+1029,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ ERP,2025-12-29,30.0,Hà Nội
+1030,Middle Software Engineer,2025-12-29,35.0,Hà Nội
+1031,CHUYÊN VIÊN LẬP TRÌNH PYTHON ODOO,2025-12-29,30.0,Hà Nội
+1032,NHÂN VIÊN KỸ THUẬT,2025-12-28,15.0,Bình Dương
+1033,Kỹ sư Embedded,2025-12-28,15.0,Hà Nội
+1034,Application Engineer,2025-12-28,15.0,Hà Nội
+1035,Kỹ sư cơ khí,2025-12-28,15.0,Hà Nội
+1036,Kỹ sư điện tử,2025-12-28,8.0,Hà Nội
+1037,Automation Tester,2025-12-28,35.0,Hà Nội
+1038,CHUYÊN VIÊN LẬP TRÌNH PYTHON ODOO,2025-12-28,30.0,Hà Nội
+1039,Phân tích nghiệp vụ Tự động hóa quy trình,2025-12-28,30.0,Hà Nội
+1040,CHUYÊN VIÊN PHÂN TÍCH NGHIỆP VỤ ERP,2025-12-28,30.0,Hà Nội
+1041,AI Engineer,2025-12-28,35.0,Hà Nội
+1042,Senior Designer,2025-12-28,18.0,Hà Nội
+1043,Chuyên viên kiểm thử phần mềm,2025-12-28,20.0,Hà Nội
+1044,Bình Dương Nhân viên IT,2025-12-31,18.0,Bình Dương
+1045,Chief Technology Officer SAAS,2025-12-27,135.0,Hồ Chí Minh
+1046,Mechanical Engineer,2025-12-27,15.0,Hà Nội
+1047,Embedded System Developer,2025-12-26,30.0,Hà Nội
+1048,"Nhân Viên IT Helpdesk tại Long Biên, HN",2025-12-26,13.0,Hà Nội
+1049,Kỹ Sư Tự Động Hóa,2025-12-26,25.0,Hà Nội
+1050,Nhân viên IT,2025-12-26,12.0,Đồng Nai
+1051,Business Analyst,2025-12-26,15.0,Hà Nội
+1052,Data Analyst,2025-12-26,25.0,Hà Nội
+1053,Nhân viên kinh doanh Khu Vực Hồ Chí Minh,2025-12-25,25.0,Hồ Chí Minh
+1054,Business Analyst International Business Department,2025-12-25,30.0,Hà Nội
+1055,Data Engineer,2025-12-25,30.0,Hà Nội
+1056,Nhân Viên Chứng Nhận,2025-12-24,10.0,Hà Nội
+1057,10 Kỹ Sư Thiết Kế Cơ Khí R&D Mechanical Design Engineer,2025-12-24,35.0,Hà Nội
+1058,NHÂN VIÊN THỦ KHO,2025-12-13,13.0,Hồ Chí Minh
+1059,Quản trị dự án,2025-12-23,35.0,Hà Nội
+1060,Chuyên viên IT,2025-12-23,18.0,Hà Nội
+1061,Kỹ sư Quản trị Cơ sở dữ liệu DBA,2025-12-23,30.0,Hà Nội
+1062,Trưởng Phòng Quản Trị Rủi Ro,2025-12-23,45.0,Hà Nội
+1063,Chuyên gia/Trưởng phòng phát triển phần mềm,2025-12-23,54.0,Hà Nội
+1064,TRƯỞNG NHÓM HỖ TRỢ KỸ THUẬT HN,2025-12-23,15.0,Hà Nội
+1065,Lập trình viên Java,2025-12-23,30.0,Hà Nội
+1066,Trưởng nhóm Lập trình Java,2025-12-23,32.0,Hà Nội
+1067,Trưởng Bộ Phận Phát Triển Phần Mềm Nhúng,2025-12-22,40.0,Hà Nội
+1068,Giám đốc Kinh doanh,2025-12-22,35.0,Hà Nội
+1069,Business Intelligence,2025-12-22,25.0,Hồ Chí Minh
+1070,Lập trình POS Odoo Python,2025-12-22,20.0,Hà Nội
+1071,Trưởng bộ phận giải pháp phần mềm,2025-12-22,40.0,Hà Nội
+1072,Chuyên Viên Quản Trị Hệ Thống,2025-12-22,25.0,Hà Nội
+1073,Devops Engineer,2025-12-22,30.0,Hà Nội
+1074,AI Prompt Engineer,2025-12-22,16.0,Hồ Chí Minh
+1075,Kỹ Sư Mạng & Bảo Mật,2025-12-22,37.0,Hà Nội
+1076,Kỹ sư hệ thống,2025-12-22,37.0,Hà Nội
+1077,Business Analyst,2025-12-22,30.0,Hà Nội
+1078,Golang Developer Middle,2025-12-21,25.0,Hà Nội
+1079,Chuyên viên Phân tích Nghiệp vụ,2025-12-21,18.0,Hà Nội
+1080,DevOps Engineer,2025-12-21,25.0,Hà Nội
+1081,Nhân viên kiểm thử phần mềm,2025-12-21,18.0,Hà Nội
+1082,Nhân viên Kỹ thuật,2025-12-21,17.0,Hà Nội
+1083,Quản trị viên Kỹ thuật Viện Victoria,2025-12-21,30.0,Hồ Chí Minh
+1084,Trưởng nhóm Phân tích Nghiệp vụ Viện Victoria,2025-12-21,45.0,Hồ Chí Minh
+1085,Nhân viên IT Helpdesk,2025-12-20,15.0,Hồ Chí Minh
+1086,Chuyên viên Phân tích Nghiệp vụ,2025-12-20,35.0,Hồ Chí Minh
+1087,Technical Support Engineer,2025-12-27,60.0,Hà Nội
+1088,Data Analyst Intern,2026-01-31,6.0,Hà Nội
+1089,Process Quality Assurance Intern,2026-01-31,6.0,Hà Nội
+1090,Nhân viên tư vấn/Sales Marketing Web,2026-01-02,25.0,Hồ Chí Minh
+1091,Cộng tác viên Quản trị công nghệ thông tin,2026-01-12,6.0,Hà Nội
+1092,Quantitative Trading Intern,2026-01-31,24.0,Hồ Chí Minh
+1093,Business Analyst Internship,2026-01-12,2.0,Hồ Chí Minh
+1094,Nhân Viên Hỗ Trợ Kỹ Thuật,2026-01-07,12.0,Hồ Chí Minh
+1095,Thực tập sinh Back end Developer,2025-12-31,7.0,Hà Nội
+1096,Thực tập sinh Kinh doanh,2025-12-31,5.0,Hồ Chí Minh
+1097,IT support,2026-01-02,14.0,Bà Rịa - Vũng Tàu
+1098,PHP Developer Intern,2025-12-31,2.0,Hồ Chí Minh
+1099,Nhân viên phân tích nghiệp vụ,2026-01-02,15.0,Hà Nội
+1100,Fresher Business Analysis,2025-12-31,15.0,Hà Nội
+1101,Thực tập sinh Chăm sóc Khách hàng B2B,2025-12-31,20.0,Hà Nội
+1102,Thực tập sinh SEO&ASO,2025-12-31,5.0,Hà Nội
+1103,Backend Developer Intern,2025-12-31,24.0,Hồ Chí Minh
+1104,AI Engineer Intern,2025-12-31,2.0,Hồ Chí Minh
+1105,Thực tập sinh kinh doanh,2025-12-25,2.0,Hồ Chí Minh
+1106,Thực Tập Sinh SEO,2025-12-11,4.0,Hồ Chí Minh
+1107,Nhân Viên IT,2025-12-24,15.0,Hải Phòng
+1108,Software Project Leader Project Manager,2025-12-27,67.5,Hà Nội
+1109,AI Engineer,2026-01-02,35.0,Hà Nội
+1110,Backend Developer,2026-01-08,32.4,Hồ Chí Minh
+1111,Software Architect Salary Up to 2500$ Hybrid Working Relocation Bonus Sign On Bonus,2026-01-10,67.5,Đà Nẵng
+1112,Cyber Security Feature Test,2026-01-10,67.5,Đà Nẵng
+1113,C / C++ Software Engineer Salary Up to 2500$ Hybrid Working,2026-01-10,67.5,Đà Nẵng
+1114,Security Engineer,2026-01-18,54.0,Hà Nội
+1115,Backend Developer,2026-01-02,32.4,Hồ Chí Minh
+1116,Backend Engineer,2026-01-02,70.0,Hồ Chí Minh
+1117,IT Staff MES,2026-01-09,18.9,Hải Dương
+1120,Scrum Master,2025-12-28,94.5,Hà Nội
+1121,Kỹ Sư Trực Điều Hành,2026-01-11,17.0,Hà Nội
+1122,Quản Lý Tiêu Chuẩn Hoá,2026-01-11,40.5,Thái Nguyên
+1123,Nhân Viên Ứng Dụng Phần Mềm,2026-01-11,40.5,Thái Nguyên
+1124,Senior SAP Consultant,2026-01-11,81.0,Hồ Chí Minh
+1125,Chuyên Viên Chuyển Đổi Số và Quản Trị Quy Trình,2026-01-11,54.0,Hà Nội
+1126,Nhân Viên Cải Tiến Chất Lượng Và Quy Trình Sản Phẩm,2026-01-11,15.0,Bắc Ninh
+1127,Trưởng Phòng Công Nghệ Thông Tin,2026-01-18,81.0,Hà Nội
+1128,.NET Developer,2025-12-28,40.5,Hà Nội
+1129,Business Analyst,2026-01-04,67.5,Hồ Chí Minh
+1130,Senior BackEnd Engineer Khối Công Nghệ Thông Tin,2026-01-09,35.0,Hà Nội
+1131,Senior Automation Tester,2026-01-18,67.5,Hà Nội
+1132,Nhân Viên Triển Khai Phần Mềm,2025-12-28,25.0,Hồ Chí Minh
+1133,AI Engineer Signing Bonus Up to 60M,2025-12-28,13.5,Hồ Chí Minh
+1135,Đống Đa HN Tuyển Gấp Kỹ Sư Cầu Nối BrSE Thưởng và Chế Độ Hấp Dẫn,2025-12-31,81.0,Hà Nội
+1136,Backend Developer,2025-12-27,60.0,Hà Nội
+1137,Data Engineer Executive,2025-12-27,22.0,Hà Nội
+1138,Nhân Viên Phát Triển Phần Mềm,2026-01-10,35.0,Vĩnh Phúc
+1139,User Support – French Speaking,2026-01-10,25.0,Hồ Chí Minh
+1140,Edtech Product Owner,2026-01-18,40.0,Hồ Chí Minh
+1142,Chuyên Viên Quản Lý Và Vận Hành Hệ Thống Chứng Khoán,2026-01-17,20.0,Hồ Chí Minh
+1143,Manual Tester,2026-01-17,72.9,Đà Nẵng
+1144,Kỹ Sư An Toàn Thông Tin Làm Việc Tại Mozambique Mức Lương Từ 2.000$/tháng,2025-12-26,54.0,Quốc tế
+1145,Kỹ Sư Giải Pháp Hệ Thống Mạng Doanh Nghiệp Network Solution Engineer,2025-12-26,27.0,Hà Nội
+1146,Full Stack Developer,2026-01-09,67.5,Hà Nội
+1147,Lập Trình Viên Full Stack / DevOps Làm Việc Từ Xa / Remote,2026-01-16,118.8,Hà Nội
+1148,B2B Sales Enterprise,2026-01-02,54.0,Hồ Chí Minh
+1149,Tech Lead,2026-01-16,59.4,Hồ Chí Minh
+1150,Kỹ Sư An Toàn Thông Tin,2026-01-16,32.4,Hồ Chí Minh
+1151,Trưởng Phòng Quản Lý Dữ Liệu & BI,2025-12-25,67.5,Hà Nội
+1152,Kỹ Sư Quản Trị Mạng Cloud,2026-01-08,35.0,Hà Nội
+1153,SAP Logistic Consultant,2026-01-08,40.0,Hà Nội
+1154,Kỹ Sư Hệ Thống – System Engineer,2026-01-08,50.0,Hà Nội
+1155,Kỹ Sư Thiết Kế Phần Cứng Lương Tới 2.000$,2026-01-16,54.0,Bắc Ninh
+1156,Chuyên Viên Front End,2026-01-01,27.0,Hà Nội
+1157,Senior Data Engineer,2026-01-15,81.0,Hà Nội
+1158,Senior Fullstack Java Engineer,2026-01-15,108.0,Hồ Chí Minh
+1159,Product Owner,2026-01-15,70.0,Hà Nội
+1160,Java Technical Lead,2026-01-15,72.9,Đà Nẵng
+1161,Senior Data Engineer,2026-01-08,55.0,Hồ Chí Minh
+1162,Nhân Viên Lập Trình Máy Vision Và Hệ Thống,2026-01-15,15.0,Bắc Ninh
+1164,Nhân Viên Phân Tích Và Phát Triển Hệ Thống,2025-12-24,20.0,Hà Nội
+1166,Chuyên Viên Lập Trình ERP,2026-01-07,28.0,Hà Nội
+1167,Nhân Viên Kỹ Thuật,2026-01-07,18.0,Hà Nội
+1168,Nhân Viên Kinh Doanh Giải Pháp CNTT,2026-01-07,15.0,Hồ Chí Minh
+1169,Senior Allegro PCB Layout Design Engineer,2026-01-07,70.2,Hồ Chí Minh
+1170,IT Specialized Korean–Vietnamese Interpreter / Translator Contract 6 Months,2026-01-07,40.0,Hồ Chí Minh
+1171,Chuyên viên Giải Pháp Nghiệp Vụ,2026-01-15,70.0,Hà Nội
+1172,Kỹ Sư Giải Pháp Nghiệp Vụ,2026-01-15,40.0,Hà Nội
+1173,iOS Dev,2026-01-15,54.0,Hà Nội
+1175,Delivery Manager,2025-12-31,108.0,Hồ Chí Minh
+1176,QA/ QC Đà Lạt 2025,2026-01-14,6.0,Lâm Đồng
+1177,Chuyên Viên Kỹ Thuật,2026-01-07,30.0,Hải Phòng
+1178,Leader After – Service,2026-01-14,40.5,Hồ Chí Minh
+1179,AI Engineer,2025-12-21,25.0,Hà Nội
+1180,Project Manager Nền Tảng Kỹ Thuật Developer/ Phòng Công nghệ Thông tin,2025-12-21,40.0,Hà Nội
+1181,Business Analyst,2025-12-21,17.55,Hồ Chí Minh
+1182,Junior Developer Back End,2026-01-10,18.0,Hà Nội
+1183,Business Analyst Lead Upto 2000Usd,2026-01-01,81.0,Hồ Chí Minh
+1184,Customer Service Manager,2025-12-31,50.0,Hồ Chí Minh
+1185,Assistant Tester,2025-12-28,12.15,Hồ Chí Minh
+1186,Chuyên Viên Thiết Kế,2025-12-28,40.5,Hà Nội
+1187,IT Solutions Intern,2025-12-27,4.05,Hồ Chí Minh
+1188,Business Analyst,2025-12-25,40.0,Hà Nội
+1189,Senior Business Analyst Specialist,2025-12-24,27.0,Hồ Chí Minh
+1190,Business Analyst AI,2025-12-24,47.0,Hồ Chí Minh
+1191,AI Engineer,2025-12-24,120.0,Hồ Chí Minh
+1192,Nhân Viên IT,2025-12-28,12.15,Hà Nội
+1193,Nhân Viên IT,2025-12-28,13.5,Bắc Ninh
+1194,Nhân Viên IT,2025-12-28,12.15,Bắc Ninh
+1195,Expert System Architect,2025-12-28,108.0,Hà Nội
+1196,Senior Backend Developer,2025-12-28,37.0,Hồ Chí Minh
+1197,"Kĩ Sư Lập Trình Unity, Unreal, Python",2025-12-28,20.0,Hà Nội
+1198,Chuyên Viên Phân Tích Nghiệp Vụ,2025-12-28,30.0,Hà Nội
+1199,Kỹ Sư MES MES工程师,2025-12-28,30.0,Thái Nguyên
+1200,Quản Lý Kỹ Thuật & Phát Triển Sản Phẩm,2025-12-28,50.0,Hồ Chí Minh
+1201,"Manager of Transaction Banking, E Channels & Services Department, Head Office",2025-12-28,54.0,Hà Nội
+1202,"Tuyển Nhân Viên Kỹ Thuật Máy Tính, Máy In, Photo",2026-01-11,18.0,Hà Nội
+1203,Mobile iOS Developer,2026-01-11,54.0,Đà Nẵng
+1204,.NET Developer,2026-01-11,20.0,Hà Nội
+1205,Nhân Viên Kỹ Thuật Truyền Dẫn,2026-01-11,15.0,Hồ Chí Minh
+1206,Product Owner,2026-01-11,40.0,Hà Nội
+1207,Information and Communication Technology Assistant,2026-01-11,29.7,Hà Nội
+1208,Senior IT Consultant,2026-01-11,54.0,Hồ Chí Minh
+1209,Nhân Viên Hành Chính Kiêm IT Quản Trị Hệ Thống,2026-01-18,25.0,Hà Nội
+1210,Lập Trình Viên Full Stack Remote Job,2025-12-28,67.5,Hồ Chí Minh
+1211,Back end Developer,2025-12-28,40.5,Hồ Chí Minh
+1212,Nhân viên Đầu tư mua sắm,2026-01-04,25.0,Hà Nội
+1213,"Senior Developer, Digital Platform Delivery",2025-12-27,54.0,Hồ Chí Minh
+1215,QC Intern Thực tập sinh Kiểm tra chất lượng gạo,2026-01-10,3.0,Tây Ninh
+1216,IT Staff,2026-01-10,17.55,Nam Định
+1217,Devops Engineer,2026-01-10,30.0,Hồ Chí Minh
+1218,AI Engineer,2026-01-10,43.2,Hà Nội
+1219,Unreal Developer,2026-01-10,54.0,Hồ Chí Minh
+1220,Nhân Viên Tester,2026-01-10,20.0,Hà Nội
+1221,Manual Tester,2026-01-10,40.5,Hà Nội
+1222,Trưởng Phòng Phát Triển,2026-01-08,25.0,Hà Nội
+1223,Data Analyst,2026-01-17,30.0,Hồ Chí Minh
+1224,Trưởng Phòng Công Nghệ,2026-01-17,35.0,Hà Nội
+1225,Kỹ Thuật Giải Pháp,2025-12-26,27.0,Hà Nội
+1226,Kỹ Sư Cơ Điện Tử Triển Khai Hệ Thống Camera & Điều Khiển Giao Thông,2025-12-26,15.0,Hà Nội
+1227,Nhân Viên Công Nghệ Thông Tin,2025-12-26,15.0,Hà Nội
+1228,Senior/Lead NodeJS Backend Developer,2025-12-26,45.0,Hồ Chí Minh
+1229,UX/UI Designer,2026-01-09,16.0,Hà Nội
+1230,Trưởng Ban Kiểm Soát Thu Nhập Hấp Dẫn Upto 55 Triệu/tháng,2026-01-09,50.0,Hà Nội
+1231,Mobile Developer,2026-01-09,67.5,Hà Nội
+1232,Project Manager Securities Trading Platform,2026-01-02,70.0,Hà Nội
+1233,Kỹ Sư Bảo Mật / ML / Dữ Liệu Làm Việc Từ Xa / Remote,2026-01-16,118.8,Hà Nội
+1234,Nhân Viên Quản Lý Chất Lượng,2026-01-16,13.0,Hải Phòng
+1235,Senior Front End Developer,2026-01-16,35.0,Hà Nội
+1236,Nhân Viên IT,2026-01-16,20.0,Đồng Nai
+1237,Nhân Viên Lập Trình Phần Mềm,2026-01-16,30.0,Hà Nội
+1238,Quản Lý Dự Án CNTT,2026-01-16,50.0,Hà Nội
+1239,AI Hardware Systems Engineer,2025-12-26,121.5,Hồ Chí Minh
+1240,AI Software and UI Developer,2025-12-26,121.5,Hồ Chí Minh
+1241,CG Quản Trị Dịch Vụ Cung Ứng,2025-12-25,45.0,Hà Nội
+1242,Senior MySQL DBA,2025-12-25,30.0,Hồ Chí Minh
+1243,Nhân Viên Kỹ Thuật Tại Hà Nội 10Tr 15Tr Vnd/tháng,2025-12-25,15.0,Hà Nội
+1244,Product Manager,2025-12-25,30.0,Hồ Chí Minh
+1245,Backend Developer,2026-01-16,35.0,Hà Nội
+1246,"Officer, Solutions Delivery",2026-01-16,32.4,Hưng Yên
+1247,Quality Engineer/ Supervisor,2026-01-16,32.4,Hưng Yên
+1248,Chuyên Viên Phân Tích Nghiệp Vụ,2026-01-15,27.0,Hà Nội
+1249,Senior Test Engineer,2026-01-15,70.39,Bắc Ninh
+1250,Engineering Lead,2026-01-15,78.3,Hồ Chí Minh
+1251,Business Analyst,2026-01-15,32.4,Hà Nội
+1252,"Assistant Manager, Sales Force Automation",2026-01-15,37.0,Hồ Chí Minh
+1253,Nhân Viên Hỗ Trợ Kinh Doanh B2B,2026-01-15,21.6,Hồ Chí Minh
+1268,Kỹ Sư Hệ Thống,2025-12-24,30.0,Hà Nội
+1269,Trưởng Phòng Chuyển Đổi Số,2025-12-24,35.0,Bắc Ninh
+1273,QA Manager,2025-12-24,43.2,Lâm Đồng
+1275,Oracle Based Erp/mes Developer,2026-01-07,24.3,Đồng Nai
+1276,Automation Test,2026-01-07,54.0,Hà Nội
+1277,AI Engineer,2026-01-07,30.0,Hà Nội
+1278,Database Administrator,2026-01-15,40.0,Hà Nội
+1279,Data Engineer,2026-01-14,67.5,Hà Nội
+1280,Senior .NET System Engineer,2026-01-14,81.0,Hồ Chí Minh
+1281,Kỹ Sư Phát Triển Hệ Thống,2026-01-14,54.0,Hà Nội
+1282,Trưởng Phòng,2026-01-14,54.0,Hà Nội
+1283,Nhân Viên Phát Triển Phần Mềm Thu Nhập Upto 30M,2026-01-14,40.5,Hòa Bình
+1284,DevOps Engineer,2025-12-21,54.0,Hà Nội
+1285,Chuyên Viên Devops,2026-01-04,40.0,Hà Nội
+1286,UX UI Designer,2026-01-04,18.0,Đà Nẵng
+1287,Senior Frontend Developer,2026-01-04,34.5,Hồ Chí Minh
+1288,BI/ Data Solutions Architect,2026-01-03,70.0,Hà Nội
+1289,"Network Engineer, IT Department, Head Office",2026-01-03,67.5,Hà Nội
+1290,"Officer, Software And Application Support",2026-01-03,27.0,Hà Nội
+1291,Chuyên Viên Phân Tích Nghiệp Vụ,2026-01-03,27.0,Hà Nội
+1292,Lập Trình Viên Frontend HN HCM,2026-01-10,108.0,Hồ Chí Minh
+1293,Backend Developer,2026-01-10,30.0,Hồ Chí Minh
+1294,Trưởng Phòng Công Nghệ,2026-01-10,81.0,Hà Nội
+1295,SQE,2026-01-10,40.5,Hải Phòng
+1296,ERP Application Engineer,2026-01-10,40.5,Hải Phòng
+1297,Business Analyst,2026-01-10,45.9,Hà Nội
+1298,Frontend Developer,2026-01-09,48.6,Hà Nội
+1299,Chuyên Viên Mua Sắm Đấu Thầu Mảng Viễn Thông,2026-01-09,29.7,Hà Nội
+1300,Backend Developer,2026-01-01,67.5,Hà Nội
+1301,"Chuyên Viên Tự Động Hóa, AI",2026-01-01,25.0,Hà Nội
+1302,MB Trainee AI Engineer Fresher Khối Công Nghệ Thông Tin,2026-01-09,35.0,Hà Nội
+1303,Techlead Python,2026-01-09,67.5,Hà Nội
+1304,NodeJS Lead,2026-01-09,67.5,Hà Nội
+1305,Data Analyst / Digital Marketing Analyst,2026-01-08,24.0,Hồ Chí Minh
+1306,Senior Fullstack Developer,2025-12-31,54.0,Hà Nội
+1307,Sales Manager,2026-01-08,94.5,Hồ Chí Minh
+1308,Software Engineer,2026-01-07,81.0,Hồ Chí Minh
+1309,Designer UI/UX,2025-12-21,20.0,Hồ Chí Minh
+1310,Python Backend Engineer,2026-01-04,37.0,Hồ Chí Minh
+1311,Frontend Developer,2026-01-03,34.5,Hồ Chí Minh
+1312,"IT Helpdesk IT Department, Head Office",2026-01-03,27.0,Hà Nội
+1313,Technical Engineer,2026-01-02,32.4,Hồ Chí Minh
+1314,Vision Engineer,2026-01-01,54.0,Bắc Ninh
+1315,"Senior Associate, Business Product Management, SPX Express",2026-01-01,43.2,Hồ Chí Minh
+1318,Nhân Viên IT / IT Engineer,2026-01-01,25.0,Hồ Chí Minh
+1319,Middle PHP Developer,2026-01-01,35.1,Hồ Chí Minh
+1320,Nhân Viên IT IT Support / IT Staff / IT Helpdesk,2026-01-01,15.39,Hà Nội
+1321,Full Stack Developer / Frontend Configurator,2025-12-31,54.0,Hồ Chí Minh
+1322,Full Stack Developer,2025-12-31,60.0,Hà Nội
+1323,Business Analyst,2025-12-31,40.5,Hồ Chí Minh
+1324,Business Analyst cum Tester,2025-12-31,16.2,Hồ Chí Minh
+1325,Chuyên Gia Đánh Giá Đào Tạo ISO,2025-12-31,40.0,Hồ Chí Minh
+1326,System Administrator,2025-12-28,54.0,Hải Phòng
+1327,ERP Specialist,2025-12-27,40.5,Hải Phòng
+1328,.Net Developer / Software Engineer,2025-12-27,54.0,Hải Phòng
+1329,Typescript Backend Engineer,2025-12-26,89.1,Hồ Chí Minh
+1330,Lead/Senior Backend Engineer,2025-12-25,135.0,Hồ Chí Minh
+1336,Global Service Desk,2025-12-24,27.0,Hồ Chí Minh
+1337,Database Reliability Engineer,2025-12-21,80.0,Hồ Chí Minh
+1338,Java Developer,2025-12-21,25.65,Hồ Chí Minh
