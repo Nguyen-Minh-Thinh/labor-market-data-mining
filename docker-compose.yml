@@ -1,0 +1,36 @@
+services:
+  airflow:
+    build: .
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./data:/opt/airflow/data
+      - ./airflow/tasks:/opt/airflow/tasks
+      - ./.env:/opt/airflow/.env
+    ports:
+      - 8080:8080
+    command: >
+      bash -c "
+      airflow db migrate &&
+      airflow standalone
+      "
+    networks:
+      - data_mining
+
+  mongodb:
+    image: mongo:6
+    container_name: mongodb
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - data_mining
+
+volumes:
+  mongo_data:
+
+networks:
+  data_mining:
+    driver: bridge
+
+

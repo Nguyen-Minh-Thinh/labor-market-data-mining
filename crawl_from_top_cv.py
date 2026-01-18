@@ -23,12 +23,11 @@ stealth(
     driver,
     languages=["vi-VN", "vi", "en-US", "en"],
     vendor="Google Inc.",
-    platform="Win32",
-    webgl_vendor="Intel Inc.",
-    renderer="Intel Iris OpenGL Engine",
+    platform="Linux x86_64",
+    webgl_vendor="Mesa/X.org",
+    renderer="AMD Radeon Graphics (RADV)",  # AMD trên Linux
     fix_hairline=True,
 )
-
 
 client = MongoClient("mongodb://localhost:27017/")
 
@@ -57,7 +56,7 @@ def wait_element_text(parent, by, value, timeout=10):
 # ================= DRIVER =================
 
 
-for i in range(55, 61):
+for i in range(5, 61):
     driver = webdriver.Chrome()
     driver.get(f'https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257?page={i}')
 
@@ -181,6 +180,6 @@ for i in range(55, 61):
                     driver.switch_to.window(original_window)
             except WebDriverException:
                 pass
-        time.sleep(1)
-    time.sleep(10)
+        time.sleep(0.2)
+    time.sleep(5)
     driver.quit()
