@@ -11,8 +11,17 @@ USER root
 RUN apt-get update && apt-get install -y \
     chromium \
     chromium-driver \
+    gcc \
+    g++ \
+    python3-dev \
+    libffi-dev \
+    build-essential \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
+
+RUN cp /usr/bin/chromedriver /opt/airflow/chromedriver \
+    && chown airflow /opt/airflow/chromedriver \
+    && chmod 755 /opt/airflow/chromedriver
 
 USER airflow
 RUN pip install -r requirements.txt

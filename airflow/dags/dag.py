@@ -16,5 +16,9 @@ with DAG(
         task_id='crawl_from_careerviet',
         bash_command='python /opt/airflow/tasks/crawl_from_careerviet3.py'
     )
+    crawl_from_vietnamwork = BashOperator(
+        task_id='crawl_from_vietnamwork',
+        bash_command='python /opt/airflow/tasks/crawl_from_vietnamwork.py'
+    )
 
-[crawl_from_top_cv, crawl_from_careerviet]
+[crawl_from_top_cv, crawl_from_careerviet, crawl_from_vietnamwork]
